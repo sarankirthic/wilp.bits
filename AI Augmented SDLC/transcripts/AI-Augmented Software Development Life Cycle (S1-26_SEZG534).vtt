@@ -1,0 +1,5814 @@
+WEBVTT
+
+87f41a82-9c7b-4166-99e4-05e683137988/54-0
+00:00:04.205 --> 00:00:07.325
+<v AKSHAYA GANESAN .>Enable the mic access for the
+participants.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/60-0
+00:00:21.925 --> 00:00:22.165
+<v AKSHAYA GANESAN .>Okay.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/62-0
+00:00:25.085 --> 00:00:25.405
+<v AKSHAYA GANESAN .>S.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/65-0
+00:00:26.765 --> 00:00:31.565
+<v AKSHAYA GANESAN .>Good evening again.
+Welcome all of you to this particular.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/69-0
+00:00:32.765 --> 00:00:37.657
+<v AKSHAYA GANESAN .>MTech Software Engineering Program,
+as well as the course on AI Augmented</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/69-1
+00:00:37.657 --> 00:00:39.045
+<v AKSHAYA GANESAN .>Software Development.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/97-0
+00:00:41.097 --> 00:00:47.292
+<v AKSHAYA GANESAN .>I hope my audio is clear.
+In case if you have any issues in hearing</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/97-1
+00:00:47.292 --> 00:00:51.210
+<v AKSHAYA GANESAN .>me,
+you can type it in the chat or you can</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/97-2
+00:00:51.210 --> 00:00:54.217
+<v AKSHAYA GANESAN .>also unmute yourself and you can.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/100-0
+00:00:56.537 --> 00:00:57.257
+<v AKSHAYA GANESAN .>Let me know.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/112-0
+00:00:58.417 --> 00:01:02.499
+<v AKSHAYA GANESAN .>So we will,
+I'll just give a brief introduction about</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/112-1
+00:01:02.499 --> 00:01:05.977
+<v AKSHAYA GANESAN .>the course, about the program, as well as.
+..</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/114-0
+00:01:07.897 --> 00:01:08.937
+<v AKSHAYA GANESAN .>The entire.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/140-0
+00:01:11.137 --> 00:01:16.384
+<v AKSHAYA GANESAN .>Semester structure, et cetera,
+a quick brief, not more than a minute. So,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/140-1
+00:01:16.384 --> 00:01:20.142
+<v AKSHAYA GANESAN .>so first of all,
+congratulations and welcome to this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/140-2
+00:01:20.142 --> 00:01:23.617
+<v AKSHAYA GANESAN .>particular program,
+M Tech Software Engineering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/157-0
+00:01:24.937 --> 00:01:30.459
+<v AKSHAYA GANESAN .>So I hope this will be your first
+semester and first day of class.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/157-1
+00:01:30.459 --> 00:01:33.097
+<v AKSHAYA GANESAN .>So is this your second class or?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/158-0
+00:01:34.377 --> 00:01:34.777
+<v AKSHAYA GANESAN .>Sorry.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/166-0
+00:01:35.657 --> 00:01:37.417
+<v AKSHAYA GANESAN .>I think you would have had one of them
+all.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/168-0
+00:01:36.857 --> 00:01:37.657
+<v ANUPAM SARKAR .>Yes, Narasimhan.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/189-0
+00:01:38.777 --> 00:01:42.089
+<v ANUPAM SARKAR .>Second class,
+basically second class didn't happen</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/189-1
+00:01:42.089 --> 00:01:46.377
+<v ANUPAM SARKAR .>today, so this was the third one.
+So I actually did a second one.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/184-0
+00:01:44.137 --> 00:01:45.337
+<v AKSHAYA GANESAN .>Okay, thanks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/199-0
+00:01:47.017 --> 00:01:49.873
+<v AKSHAYA GANESAN .>Okay,
+so you have three classes on Saturday and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/199-1
+00:01:49.873 --> 00:01:51.897
+<v AKSHAYA GANESAN .>you have one on the Sunday, is it?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/200-0
+00:01:52.377 --> 00:01:52.777
+<v ANUPAM SARKAR .>Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/246-0
+00:01:53.577 --> 00:01:58.094
+<v AKSHAYA GANESAN .>Okay, great.
+So we will have our session that is AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/204-0
+00:01:54.257 --> 00:01:54.537
+<v ANUPAM SARKAR .>Right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/246-1
+00:01:58.094 --> 00:02:03.568
+<v AKSHAYA GANESAN .>Augmented Software Development Life Cycle
+and 550 to 750 slot.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/246-2
+00:02:03.568 --> 00:02:08.606
+<v AKSHAYA GANESAN .>So before getting into the course,
+so my name is AKSHAYA.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/246-3
+00:02:08.606 --> 00:02:12.777
+<v AKSHAYA GANESAN .>I work for the WILP CSIS department off
+campus.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/279-0
+00:02:12.937 --> 00:02:18.738
+<v AKSHAYA GANESAN .>I am based out of Chennai.
+I have been working with the WILP bits</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/279-1
+00:02:18.738 --> 00:02:24.452
+<v AKSHAYA GANESAN .>for almost close to 10 years now.
+I work as assistant professor.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/279-2
+00:02:24.452 --> 00:02:30.605
+<v AKSHAYA GANESAN .>So predominantly our role lies in
+teaching, plus content development,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/279-3
+00:02:30.605 --> 00:02:34.297
+<v AKSHAYA GANESAN .>curriculum design, program structure, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/281-0
+00:02:35.577 --> 00:02:36.777
+<v AKSHAYA GANESAN .>I also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/326-0
+00:02:38.057 --> 00:02:42.245
+<v AKSHAYA GANESAN .>coordinate programs,
+corporate partnership programs,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/326-1
+00:02:42.245 --> 00:02:47.145
+<v AKSHAYA GANESAN .>where we have some specific
+collaborations whom we work with,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/326-2
+00:02:47.145 --> 00:02:53.468
+<v AKSHAYA GANESAN .>where the same kind of programs you have
+enrolled for is offered to students of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/326-3
+00:02:53.468 --> 00:02:59.316
+<v AKSHAYA GANESAN .>certain corporates who wanted to continue
+their education similar to you.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/326-4
+00:02:59.316 --> 00:03:00.897
+<v AKSHAYA GANESAN .>So I also coordinate</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/332-0
+00:03:01.417 --> 00:03:04.457
+<v AKSHAYA GANESAN .>Such programs, so coming to courses.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/381-0
+00:03:06.057 --> 00:03:11.121
+<v AKSHAYA GANESAN .>So always my first preference and
+priority has been teaching software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/381-1
+00:03:11.121 --> 00:03:16.258
+<v AKSHAYA GANESAN .>engineering related courses.
+So I often teach MTech for MTech Software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/381-2
+00:03:16.258 --> 00:03:20.237
+<v AKSHAYA GANESAN .>Engineering.
+So the courses I usually teach are mostly</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/381-3
+00:03:20.237 --> 00:03:23.637
+<v AKSHAYA GANESAN .>on application development,
+scalable services,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/381-4
+00:03:23.637 --> 00:03:27.617
+<v AKSHAYA GANESAN .>full Stack Application Development,
+scalable services.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/387-0
+00:03:28.617 --> 00:03:33.417
+<v AKSHAYA GANESAN .>DevOps related courses.
+I also work in areas.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/431-0
+00:03:34.537 --> 00:03:39.329
+<v AKSHAYA GANESAN .>on the design aspects that is user
+experience design,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/431-1
+00:03:39.329 --> 00:03:43.943
+<v AKSHAYA GANESAN .>human computer interaction or human AI
+interaction.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/431-2
+00:03:43.943 --> 00:03:51.220
+<v AKSHAYA GANESAN .>So these are normally the courses I teach.
+Coming to this particular AI Augmented</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/431-3
+00:03:51.220 --> 00:03:54.680
+<v AKSHAYA GANESAN .>SDLC.
+So I think all of you would have</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/431-4
+00:03:54.680 --> 00:03:55.657
+<v AKSHAYA GANESAN .>undergone a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/468-0
+00:03:55.777 --> 00:04:02.210
+<v AKSHAYA GANESAN .>program orientation where they would have
+given you some insights about what is the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/468-1
+00:04:02.210 --> 00:04:05.733
+<v AKSHAYA GANESAN .>program about,
+what are the courses involved.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/468-2
+00:04:05.733 --> 00:04:11.936
+<v AKSHAYA GANESAN .>So I was also part of the program design
+team who had structured this particular</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/468-3
+00:04:11.936 --> 00:04:14.617
+<v AKSHAYA GANESAN .>MTech Software Engineering program.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/472-0
+00:04:16.297 --> 00:04:18.857
+<v AKSHAYA GANESAN .>So one thing we had.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/524-0
+00:04:20.457 --> 00:04:26.952
+<v AKSHAYA GANESAN .>as a objective or as an idea when this
+program was restructured. Basically,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/524-1
+00:04:26.952 --> 00:04:32.422
+<v AKSHAYA GANESAN .>it's not a new program. It existed.
+It had run many iterations.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/524-2
+00:04:32.422 --> 00:04:39.174
+<v AKSHAYA GANESAN .>But we saw the transitioning happening.
+And the transitioning a few years back</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/524-3
+00:04:39.174 --> 00:04:42.337
+<v AKSHAYA GANESAN .>when we had restructured the program,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/562-0
+00:04:43.097 --> 00:04:48.504
+<v AKSHAYA GANESAN .>There was a different kind of
+transitioning happening in the software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/562-1
+00:04:48.504 --> 00:04:54.530
+<v AKSHAYA GANESAN .>engineering as well as the software
+development on a whole is when the DevOps</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/562-2
+00:04:54.530 --> 00:05:00.633
+<v AKSHAYA GANESAN .>came into picture and when we had more of
+full Stack developers come in and we</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/562-3
+00:05:00.633 --> 00:05:01.097
+<v AKSHAYA GANESAN .>wanted</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/595-0
+00:05:01.657 --> 00:05:07.585
+<v AKSHAYA GANESAN .>more of a agile plus a continuous
+integration and a CICT pipeline.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/595-1
+00:05:07.585 --> 00:05:14.134
+<v AKSHAYA GANESAN .>So that was one time where we saw
+considerably a number of changes has to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/595-2
+00:05:14.134 --> 00:05:20.417
+<v AKSHAYA GANESAN .>be brought to the program because it was
+completely transitioning to a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/597-0
+00:05:20.857 --> 00:05:21.737
+<v AKSHAYA GANESAN .>More on a.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/615-0
+00:05:23.257 --> 00:05:27.038
+<v AKSHAYA GANESAN .>Different aspect,
+but the recent transition when we had</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/615-1
+00:05:27.038 --> 00:05:29.537
+<v AKSHAYA GANESAN .>designed this program is more on the.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/631-0
+00:05:32.217 --> 00:05:40.694
+<v AKSHAYA GANESAN .>AI acceleration which has been
+contributing to it. So over the last two,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/631-1
+00:05:40.694 --> 00:05:43.017
+<v AKSHAYA GANESAN .>2 1/2 years, we had.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/671-0
+00:05:44.377 --> 00:05:50.211
+<v AKSHAYA GANESAN .>slightly modified many of our courses
+matching the industry needs because we</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/671-1
+00:05:50.211 --> 00:05:54.832
+<v AKSHAYA GANESAN .>saw that, for example,
+I'll take the example as a full Stack</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/671-2
+00:05:54.832 --> 00:06:00.363
+<v AKSHAYA GANESAN .>Application Development course,
+which many of you might have elective in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/671-3
+00:06:00.363 --> 00:06:05.137
+<v AKSHAYA GANESAN .>the upcoming semesters.
+So when we started this course, it was</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/696-0
+00:06:06.217 --> 00:06:15.384
+<v AKSHAYA GANESAN .>The React was introduced and React itself
+had undergone many versions, changes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/696-1
+00:06:15.384 --> 00:06:20.426
+<v AKSHAYA GANESAN .>It was evolving.
+But last 2 and half years,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/696-2
+00:06:20.426 --> 00:06:23.177
+<v AKSHAYA GANESAN .>we saw the AI being used</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/716-0
+00:06:24.377 --> 00:06:30.651
+<v AKSHAYA GANESAN .>at every phase of not only development,
+but every phase of software engineering</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/716-1
+00:06:30.651 --> 00:06:35.671
+<v AKSHAYA GANESAN .>by different angles,
+whatever was possible by different people,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/716-2
+00:06:35.671 --> 00:06:36.377
+<v AKSHAYA GANESAN .>whatever.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/721-0
+00:06:38.537 --> 00:06:41.257
+<v AKSHAYA GANESAN .>Tools and technologies were available.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/727-0
+00:06:42.777 --> 00:06:45.337
+<v AKSHAYA GANESAN .>And we saw how it is reshaping.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/773-0
+00:06:46.297 --> 00:06:52.316
+<v AKSHAYA GANESAN .>many things. And when it came to,
+when it crossed the general large</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/773-1
+00:06:52.316 --> 00:06:59.044
+<v AKSHAYA GANESAN .>language models and the general chat
+based interfaces we have, the ChatGPT,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/773-2
+00:06:59.044 --> 00:07:02.673
+<v AKSHAYA GANESAN .>etc.
+And when it went into the agent and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/773-3
+00:07:02.673 --> 00:07:06.657
+<v AKSHAYA GANESAN .>agentic world, we saw there was a lot of..
+.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/827-0
+00:07:07.257 --> 00:07:12.214
+<v AKSHAYA GANESAN .>harness coming into it.
+I think I'm using certain terminologies</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/827-1
+00:07:12.214 --> 00:07:18.102
+<v AKSHAYA GANESAN .>which I'll be going into complete detail
+in the later part of the course or</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/827-2
+00:07:18.102 --> 00:07:23.369
+<v AKSHAYA GANESAN .>whenever I start my classes.
+So the harness is like when you try to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/827-3
+00:07:23.369 --> 00:07:29.257
+<v AKSHAYA GANESAN .>build or control something which is
+already existing, which has some power.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/846-0
+00:07:29.737 --> 00:07:35.583
+<v AKSHAYA GANESAN .>So many of our coding agents,
+right from Cloud Code or Copilot,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/846-1
+00:07:35.583 --> 00:07:42.617
+<v AKSHAYA GANESAN .>they are all built harness around large
+language models which are available.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/888-0
+00:07:43.817 --> 00:07:47.338
+<v AKSHAYA GANESAN .>So this,
+when you say you are building something</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/888-1
+00:07:47.338 --> 00:07:52.082
+<v AKSHAYA GANESAN .>or you are engineering something,
+there itself an entire software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/888-2
+00:07:52.082 --> 00:07:57.688
+<v AKSHAYA GANESAN .>engineering comes into picture, right?
+So we saw that when it comes to agent,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/888-3
+00:07:57.688 --> 00:08:02.217
+<v AKSHAYA GANESAN .>there is a lot of software engineering
+involved. And the same.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/928-0
+00:08:04.297 --> 00:08:10.120
+<v AKSHAYA GANESAN .>Like one size doesn't fit all.
+The same principle or same method which</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/928-1
+00:08:10.120 --> 00:08:16.271
+<v AKSHAYA GANESAN .>we have been using to design our
+applications did not fit into fit for the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/928-2
+00:08:16.271 --> 00:08:22.012
+<v AKSHAYA GANESAN .>ML based applications or agent based
+applications or AI applications.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/928-3
+00:08:22.012 --> 00:08:23.817
+<v AKSHAYA GANESAN .>There had to be a few.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/947-0
+00:08:24.057 --> 00:08:29.878
+<v AKSHAYA GANESAN .>changes which has to be brought in.
+So those are one kind of changes into</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/947-1
+00:08:29.878 --> 00:08:33.497
+<v AKSHAYA GANESAN .>this program. But how do you also look at.
+..</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-0
+00:08:34.537 --> 00:08:40.383
+<v AKSHAYA GANESAN .>the entire software engineering aspect,
+AI Augmented the software engineering</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-1
+00:08:40.383 --> 00:08:43.906
+<v AKSHAYA GANESAN .>Development Life Cycle.
+So there is SC for ML,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-2
+00:08:43.906 --> 00:08:47.654
+<v AKSHAYA GANESAN .>that is software engineering for ML
+applications.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-3
+00:08:47.654 --> 00:08:51.851
+<v AKSHAYA GANESAN .>How do you software engineer?
+So now this is AI for SC.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-4
+00:08:51.851 --> 00:08:57.398
+<v AKSHAYA GANESAN .>That is how can you use AI to do various
+tasks which are for the software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1000-5
+00:08:57.398 --> 00:08:58.897
+<v AKSHAYA GANESAN .>engineering and that</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1032-0
+00:08:58.977 --> 00:09:04.975
+<v AKSHAYA GANESAN .>That was the, when we looked at it,
+we saw that there are so many avenues in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1032-1
+00:09:04.975 --> 00:09:09.415
+<v AKSHAYA GANESAN .>which AI can be used in software
+development life cycle.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1032-2
+00:09:09.415 --> 00:09:15.101
+<v AKSHAYA GANESAN .>And we saw that there has been a
+considerable number of research in this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1032-3
+00:09:15.101 --> 00:09:18.217
+<v AKSHAYA GANESAN .>particular area which has been going on.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1035-0
+00:09:18.617 --> 00:09:20.777
+<v AKSHAYA GANESAN .>Plus, we saw the industries also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1078-0
+00:09:23.017 --> 00:09:28.791
+<v AKSHAYA GANESAN .>actually equipping itself to do.
+And of course, there are a few challenges.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1078-1
+00:09:28.791 --> 00:09:32.515
+<v AKSHAYA GANESAN .>There are many major players who are
+successful,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1078-2
+00:09:32.515 --> 00:09:37.833
+<v AKSHAYA GANESAN .>but there are many players who are still
+in the change mode, etc. So,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1078-3
+00:09:37.833 --> 00:09:41.177
+<v AKSHAYA GANESAN .>so it's a very niche area, I would say,
+but</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1119-0
+00:09:41.377 --> 00:09:45.130
+<v AKSHAYA GANESAN .>We like the outputs which are coming from
+LLM.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1119-1
+00:09:45.130 --> 00:09:50.560
+<v AKSHAYA GANESAN .>There are many non-deterministic ones as
+well. But we will see how,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1119-2
+00:09:50.560 --> 00:09:56.869
+<v AKSHAYA GANESAN .>so our entire agenda for this course or
+what we are going to look at from this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1119-3
+00:09:56.869 --> 00:10:03.417
+<v AKSHAYA GANESAN .>course is how AI can be applied to every
+level of software development lifestyle.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1121-0
+00:10:03.537 --> 00:10:05.177
+<v AKSHAYA GANESAN .>But, so, basically...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1123-0
+00:10:06.457 --> 00:10:07.497
+<v AKSHAYA GANESAN .>We are looking at.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1161-0
+00:10:08.377 --> 00:10:16.200
+<v AKSHAYA GANESAN .>How products can be shipped back with the
+with the every phase being followed with</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1161-1
+00:10:16.200 --> 00:10:21.290
+<v AKSHAYA GANESAN .>improved productivity and using AI as an
+accelerator,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1161-2
+00:10:21.290 --> 00:10:27.417
+<v AKSHAYA GANESAN .>and but when I say AI and we are using it,
+we are not always so.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1179-0
+00:10:27.817 --> 00:10:32.289
+<v AKSHAYA GANESAN .>So you cannot,
+I'm not going to blindly come and say</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1179-1
+00:10:32.289 --> 00:10:39.124
+<v AKSHAYA GANESAN .>that we are going to use AI at all places.
+We are going to also evaluate whether</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1179-2
+00:10:39.124 --> 00:10:40.137
+<v AKSHAYA GANESAN .>inferential.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1203-0
+00:10:41.657 --> 00:10:47.115
+<v AKSHAYA GANESAN .>requirement is there.
+If a simple static code analyzer can do a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1203-1
+00:10:47.115 --> 00:10:51.977
+<v AKSHAYA GANESAN .>thing at that place,
+we are not going to go in for an...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1243-0
+00:10:54.377 --> 00:10:58.600
+<v AKSHAYA GANESAN .>inferential one,
+a computational tool would fit in there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1243-1
+00:10:58.600 --> 00:11:03.915
+<v AKSHAYA GANESAN .>So we are not only just going to look at
+what AI is going to benefit us,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1243-2
+00:11:03.915 --> 00:11:08.648
+<v AKSHAYA GANESAN .>we are also going to evaluate whether AI
+will fit at this space,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1243-3
+00:11:08.648 --> 00:11:13.017
+<v AKSHAYA GANESAN .>what are the challenges when AI is being
+fit at this place.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1282-0
+00:11:13.817 --> 00:11:17.605
+<v AKSHAYA GANESAN .>in each phases.
+So when it starts from right from</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1282-1
+00:11:17.605 --> 00:11:22.909
+<v AKSHAYA GANESAN .>requirements to the deployment,
+at each phase we are going to look at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1282-2
+00:11:22.909 --> 00:11:27.380
+<v AKSHAYA GANESAN .>what AI is going to do, what AI can,
+what AI will benefit,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1282-3
+00:11:27.380 --> 00:11:32.533
+<v AKSHAYA GANESAN .>we will benefit out of it,
+and what are the significant risks it is</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1282-4
+00:11:32.533 --> 00:11:33.897
+<v AKSHAYA GANESAN .>going to bring in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1302-0
+00:11:34.297 --> 00:11:41.126
+<v AKSHAYA GANESAN .>What are the solutions we have to tackle
+or mitigate at that point in time?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1302-1
+00:11:41.126 --> 00:11:47.417
+<v AKSHAYA GANESAN .>So we are going to discuss all this in
+this entire particular course.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1315-0
+00:11:49.577 --> 00:11:55.417
+<v AKSHAYA GANESAN .>So I've been asked to keep it very light
+today because there will be a few more.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1338-0
+00:11:56.617 --> 00:12:01.671
+<v AKSHAYA GANESAN .>learners who will be joining.
+So the core part, the module one,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1338-1
+00:12:01.671 --> 00:12:07.040
+<v AKSHAYA GANESAN .>I will start from next session,
+but I just want to understand a few</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1338-2
+00:12:07.040 --> 00:12:08.857
+<v AKSHAYA GANESAN .>things from all of you.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1347-0
+00:12:10.377 --> 00:12:14.777
+<v AKSHAYA GANESAN .>So what are the new AI buzzwords you have
+heard recently?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1352-0
+00:12:16.217 --> 00:12:17.577
+<v AKSHAYA GANESAN .>You can type in chat.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1363-0
+00:12:24.777 --> 00:12:31.977
+<v AKSHAYA GANESAN .>A I related buzzwords. OK, MCP,
+agentic workflow, anti-gravity.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1367-0
+00:12:33.897 --> 00:12:36.217
+<v AKSHAYA GANESAN .>LLM agents, OK.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1371-0
+00:12:37.377 --> 00:12:38.137
+<v AKSHAYA GANESAN .>Codex.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1375-0
+00:12:40.937 --> 00:12:42.377
+<v AKSHAYA GANESAN .>context engineering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1383-0
+00:12:44.297 --> 00:12:49.737
+<v AKSHAYA GANESAN .>Agent K.T. K. Langchain open clock cursor,
+Claude.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1387-0
+00:12:52.377 --> 00:12:54.457
+<v AKSHAYA GANESAN .>Token maxing, okay. Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1390-0
+00:12:57.577 --> 00:12:58.537
+<v AKSHAYA GANESAN .>Ethical AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1392-0
+00:13:01.017 --> 00:13:02.217
+<v AKSHAYA GANESAN .>AI skills.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1415-0
+00:13:03.337 --> 00:13:07.250
+<v AKSHAYA GANESAN .>Agent force. OK,
+I'm just I'm just cutting down the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1415-1
+00:13:07.250 --> 00:13:13.497
+<v AKSHAYA GANESAN .>repeated ones and just going for the new
+ones alone. OK, so agent force agent TKI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1420-0
+00:13:14.937 --> 00:13:17.177
+<v AKSHAYA GANESAN .>context we have already heard.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1446-0
+00:13:18.377 --> 00:13:25.057
+<v AKSHAYA GANESAN .>Model routing, spec coding. Yeah,
+I was expecting that spec coding or spec</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1446-1
+00:13:25.057 --> 00:13:31.737
+<v AKSHAYA GANESAN .>driven Development. AGI. Yes, of course,
+AGI. Distillation, OK. Shadow AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1495-0
+00:13:33.937 --> 00:13:38.866
+<v AKSHAYA GANESAN .>I wish I had this Mentimeter.
+Mentimeter has, I think, a limitation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1495-1
+00:13:38.866 --> 00:13:44.225
+<v AKSHAYA GANESAN .>And whatever goes to Mentimeter,
+I'm not able to bring it back to the PPTs</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1495-2
+00:13:44.225 --> 00:13:49.369
+<v AKSHAYA GANESAN .>again. That's why I didn't use it.
+But I wish I had built a word cloud.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1495-3
+00:13:49.369 --> 00:13:54.871
+<v AKSHAYA GANESAN .>Maybe I will do it after the class and
+share it all with you. Replit, token,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1495-4
+00:13:54.871 --> 00:13:55.657
+<v AKSHAYA GANESAN .>Replit N8N.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1499-0
+00:13:55.737 --> 00:13:58.457
+<v AKSHAYA GANESAN .>OK, then of loop engineering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1500-0
+00:14:00.857 --> 00:14:01.337
+<v AKSHAYA GANESAN .>K.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1504-0
+00:14:03.137 --> 00:14:05.057
+<v AKSHAYA GANESAN .>Yeah, I need to.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1546-0
+00:14:11.657 --> 00:14:16.294
+<v AKSHAYA GANESAN .>Okay, wonderful.
+So I was expecting one more thing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1546-1
+00:14:16.294 --> 00:14:21.913
+<v AKSHAYA GANESAN .>Token maxing had come. So tokenomics,
+that is token economics,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1546-2
+00:14:21.913 --> 00:14:28.691
+<v AKSHAYA GANESAN .>and I was also expecting harness
+engineering. So these are also some terms.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1546-3
+00:14:28.691 --> 00:14:30.297
+<v AKSHAYA GANESAN .>Okay, so whatever.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1570-0
+00:14:30.457 --> 00:14:35.973
+<v AKSHAYA GANESAN .>Many of you have posted, we will be,
+we will touch many of this in our course.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1570-1
+00:14:35.973 --> 00:14:41.000
+<v AKSHAYA GANESAN .>Of course, agents for sure, LLMs for sure,
+prompt engineering for sure,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1570-2
+00:14:41.000 --> 00:14:42.537
+<v AKSHAYA GANESAN .>token maxing for sure.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1603-0
+00:14:43.737 --> 00:14:47.771
+<v AKSHAYA GANESAN .>The detail on how much we will go into it
+depend on the module, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1603-1
+00:14:47.771 --> 00:14:51.455
+<v AKSHAYA GANESAN .>So when you have the complete idea about
+the module structure,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1603-2
+00:14:51.455 --> 00:14:56.017
+<v AKSHAYA GANESAN .>you will know how we are going to go into
+detail of each of these words, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1605-0
+00:14:57.097 --> 00:14:57.577
+<v AKSHAYA GANESAN .>Okay.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1613-0
+00:14:58.697 --> 00:15:02.297
+<v AKSHAYA GANESAN .>So my second question is,
+I don't have the question.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1626-0
+00:15:04.377 --> 00:15:10.377
+<v AKSHAYA GANESAN .>What came to your mind when you first saw
+the name of this particular course?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1636-0
+00:15:11.497 --> 00:15:16.937
+<v AKSHAYA GANESAN .>You can type, or if you want,
+you can also unmute yourself and speak.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1647-0
+00:15:18.937 --> 00:15:21.903
+<v AKSHAYA GANESAN .>If many of you want to speak,
+you have your hand raised,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1647-1
+00:15:21.903 --> 00:15:23.257
+<v AKSHAYA GANESAN .>so we can go in the order.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1654-0
+00:15:26.377 --> 00:15:30.137
+<v AKSHAYA GANESAN .>Yes, we'll go with the yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1699-0
+00:15:31.817 --> 00:15:35.894
+<v ANUPAM SARKAR .>Yes, ma'am.
+So I think it is all about how we use AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1699-1
+00:15:35.894 --> 00:15:39.356
+<v ANUPAM SARKAR .>to augment the software development.
+I mean,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1699-2
+00:15:39.356 --> 00:15:45.127
+<v ANUPAM SARKAR .>in terms like all the phases of SDNC,
+starting from requirement gathering,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1699-3
+00:15:45.127 --> 00:15:49.897
+<v ANUPAM SARKAR .>then design, then coding, then use,
+deployments, maintenance.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1741-0
+00:15:50.537 --> 00:15:53.736
+<v ANUPAM SARKAR .>every phase of the operator development
+life cycle,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1741-1
+00:15:53.736 --> 00:15:58.411
+<v ANUPAM SARKAR .>how can we use AI or what are the AI
+applications that we can do in each of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1741-2
+00:15:58.411 --> 00:16:03.086
+<v ANUPAM SARKAR .>these areas, which can bring value to,
+I mean, different ecosystems, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1741-3
+00:16:03.086 --> 00:16:07.823
+<v ANUPAM SARKAR .>Whether it is a developer ecosystem or it
+is the customer or it is maybe the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1741-4
+00:16:07.823 --> 00:16:09.177
+<v ANUPAM SARKAR .>infrastructure people.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1761-0
+00:16:09.977 --> 00:16:13.882
+<v ANUPAM SARKAR .>So,
+how do we use AI to help the entire life</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1761-1
+00:16:13.882 --> 00:16:19.697
+<v ANUPAM SARKAR .>cycle bring more value efficiency speed
+and all of that? So, yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1754-0
+00:16:17.577 --> 00:16:18.297
+<v AKSHAYA GANESAN .>Yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1782-0
+00:16:19.377 --> 00:16:26.023
+<v AKSHAYA GANESAN .>Yeah, that's exactly right. I'm spot on.
+Yes, yes, we'll hear from Abhinav,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1782-1
+00:16:26.023 --> 00:16:29.697
+<v AKSHAYA GANESAN .>then I'll go to the chat messages as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1784-0
+00:16:29.177 --> 00:16:31.257
+<v ABHINAV MUKHERJEE .>Good evening, ma'am. Am I audible?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1785-0
+00:16:30.617 --> 00:16:32.377
+<v AKSHAYA GANESAN .>Yeah, yes, you are.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1831-0
+00:16:33.297 --> 00:16:37.548
+<v ABHINAV MUKHERJEE .>Yeah, thank you for this opportunity.
+Yeah, I go on, right? So, nowadays,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1831-1
+00:16:37.548 --> 00:16:41.225
+<v ABHINAV MUKHERJEE .>without AI, nothing happens,
+and whether we are working for our</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1831-2
+00:16:41.225 --> 00:16:44.270
+<v ABHINAV MUKHERJEE .>customers or internal projects,
+everyone is chasing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1831-3
+00:16:44.270 --> 00:16:48.579
+<v ABHINAV MUKHERJEE .>I know in which part of Software
+Development Life Cycle we are bringing in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1831-4
+00:16:48.579 --> 00:16:51.337
+<v ABHINAV MUKHERJEE .>AI, and it has touched all the flow,
+all the...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1876-0
+00:16:51.897 --> 00:16:55.950
+<v ABHINAV MUKHERJEE .>phases of it. So in fact,
+when we are discussing on which course to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1876-1
+00:16:55.950 --> 00:16:58.573
+<v ABHINAV MUKHERJEE .>take and what are the syllabus of this
+one,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1876-2
+00:16:58.573 --> 00:17:03.223
+<v ABHINAV MUKHERJEE .>I was honestly looking for areas where AI
+has been introduced or AI has been,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1876-3
+00:17:03.223 --> 00:17:07.217
+<v ABHINAV MUKHERJEE .>you know, inducted, right?
+And I found this course is there in the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1876-4
+00:17:07.217 --> 00:17:10.377
+<v ABHINAV MUKHERJEE .>first semester and then there are several
+electives.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1916-0
+00:17:10.857 --> 00:17:13.671
+<v ABHINAV MUKHERJEE .>later which focuses on AI, then I thought,
+yes,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1916-1
+00:17:13.671 --> 00:17:18.420
+<v ABHINAV MUKHERJEE .>this course is really modified to keep up
+with the latest trends and this is 1 I</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1916-2
+00:17:18.420 --> 00:17:21.761
+<v ABHINAV MUKHERJEE .>should go with. So that actually,
+you know, inspired me.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1916-3
+00:17:21.761 --> 00:17:26.159
+<v ABHINAV MUKHERJEE .>I think this course and a few other AI
+courses inspired me to opt for this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1916-4
+00:17:26.159 --> 00:17:27.097
+<v ABHINAV MUKHERJEE .>stream as my MT.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1927-0
+00:17:28.377 --> 00:17:34.057
+<v AKSHAYA GANESAN .>And thank you, Abhinav. Yes,
+we'll go with Gurdeep Singh, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1928-0
+00:17:35.097 --> 00:17:35.897
+<v GURDEEP SINGH KHURMI .>Good evening, ma'am.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1931-0
+00:17:37.097 --> 00:17:37.977
+<v AKSHAYA GANESAN .>Yes, Gudino.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1932-0
+00:17:37.577 --> 00:17:38.537
+<v GURDEEP SINGH KHURMI .>Hope I am audible.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1933-0
+00:17:38.857 --> 00:17:39.657
+<v AKSHAYA GANESAN .>Yes, you are.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1934-0
+00:17:41.257 --> 00:17:41.977
+<v GURDEEP SINGH KHURMI .>Ma'am, like...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1982-0
+00:17:43.017 --> 00:17:46.689
+<v GURDEEP SINGH KHURMI .>Stitching AI with Software Development
+Life Cycle,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1982-1
+00:17:46.689 --> 00:17:49.857
+<v GURDEEP SINGH KHURMI .>what I understand is like so far for
+years,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1982-2
+00:17:49.857 --> 00:17:54.969
+<v GURDEEP SINGH KHURMI .>the SDLC has always been revolving around,
+you know, waterfall models.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1982-3
+00:17:54.969 --> 00:17:59.073
+<v GURDEEP SINGH KHURMI .>And afterwards,
+like after many years from 2012 onwards,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/1982-4
+00:17:59.073 --> 00:18:01.737
+<v GURDEEP SINGH KHURMI .>then we move to slowly move to agile.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2029-0
+00:18:01.977 --> 00:18:06.528
+<v GURDEEP SINGH KHURMI .>models. Now with AI,
+with AI coming into picture in big time,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2029-1
+00:18:06.528 --> 00:18:11.447
+<v GURDEEP SINGH KHURMI .>so the timelines have reduced quite a lot.
+Earlier with Waterfall,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2029-2
+00:18:11.447 --> 00:18:15.631
+<v GURDEEP SINGH KHURMI .>it used to take years to develop a
+software. With Agile,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2029-3
+00:18:15.631 --> 00:18:20.697
+<v GURDEEP SINGH KHURMI .>it became slightly more streamlined and
+the timelines reduced a bit.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2071-0
+00:18:21.017 --> 00:18:25.997
+<v GURDEEP SINGH KHURMI .>But with AI, the timelines have disrupted.
+It's a disruptive move with the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2071-1
+00:18:25.997 --> 00:18:31.176
+<v GURDEEP SINGH KHURMI .>introduction of AI. So accordingly,
+our software development life cycles need</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2071-2
+00:18:31.176 --> 00:18:35.558
+<v GURDEEP SINGH KHURMI .>to be adjusted according to the pace that
+AI brings to, you know,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2071-3
+00:18:35.558 --> 00:18:40.937
+<v GURDEEP SINGH KHURMI .>software development because the whatever,
+for example, earlier it used to take.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2111-0
+00:18:41.497 --> 00:18:47.952
+<v GURDEEP SINGH KHURMI .>like maybe minimum one year to go to the
+market. With AI, it may be reduced to,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2111-1
+00:18:47.952 --> 00:18:54.166
+<v GURDEEP SINGH KHURMI .>let's say, two or three months also.
+So how to adapt to that change of pace?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2111-2
+00:18:54.166 --> 00:19:00.057
+<v GURDEEP SINGH KHURMI .>I think that's why this topic,
+it is going to discuss in that direction.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2113-0
+00:19:00.137 --> 00:19:01.577
+<v GURDEEP SINGH KHURMI .>As per my my knowledge.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2115-0
+00:19:02.617 --> 00:19:03.177
+<v AKSHAYA GANESAN .>Yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2139-0
+00:19:04.297 --> 00:19:08.669
+<v AKSHAYA GANESAN .>Okay, right.
+So I'll also look at the chat-based</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2139-1
+00:19:08.669 --> 00:19:14.469
+<v AKSHAYA GANESAN .>questions. But before that,
+in the meantime, I look at the chat.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2139-2
+00:19:14.469 --> 00:19:18.217
+<v AKSHAYA GANESAN .>I just want to give you all a simple poll.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2149-0
+00:19:21.697 --> 00:19:27.017
+<v AKSHAYA GANESAN .>I'm just initiating a poll,
+so you'll get some a question then.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2151-0
+00:19:29.217 --> 00:19:30.457
+<v AKSHAYA GANESAN .>Few options.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2166-0
+00:19:35.257 --> 00:19:40.267
+<v AKSHAYA GANESAN .>I don't still have the split up of what
+does each of you work in,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2166-1
+00:19:40.267 --> 00:19:42.697
+<v AKSHAYA GANESAN .>which I will collect it through.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2183-0
+00:19:47.257 --> 00:19:51.398
+<v AKSHAYA GANESAN .>A Google form or maybe a Ms.
+forms shortly,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2183-1
+00:19:51.398 --> 00:19:55.257
+<v AKSHAYA GANESAN .>but this is just to have an initial idea.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2187-0
+00:19:57.897 --> 00:19:59.497
+<v AKSHAYA GANESAN .>I'm just launching a poll.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2195-0
+00:20:09.537 --> 00:20:11.737
+<v AKSHAYA GANESAN .>So you can put in your answers there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2197-0
+00:20:17.417 --> 00:20:18.377
+<v AKSHAYA GANESAN .>Did you all get it?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2206-0
+00:20:28.537 --> 00:20:31.017
+<v AKSHAYA GANESAN .>Okay,
+by the time everyone puts in the answer.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2256-0
+00:20:35.017 --> 00:20:39.806
+<v AKSHAYA GANESAN .>I'll go to the chat. So yes,
+how can we improve productivity in each</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2256-1
+00:20:39.806 --> 00:20:44.735
+<v AKSHAYA GANESAN .>phase? That's exactly right.
+Chetan has mentioned that speeding up the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2256-2
+00:20:44.735 --> 00:20:49.872
+<v AKSHAYA GANESAN .>development. Guru RAJ has mentioned that,
+yes, it's not only development,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2256-3
+00:20:49.872 --> 00:20:55.217
+<v AKSHAYA GANESAN .>all phases of software life cycle is what.
+But the first thing all of us use</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2293-0
+00:20:55.697 --> 00:21:00.965
+<v AKSHAYA GANESAN .>AI is for the development.
+Agentic models is something which we</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2293-1
+00:21:00.965 --> 00:21:04.834
+<v AKSHAYA GANESAN .>might not cover in detail.
+We will use agents,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2293-2
+00:21:04.834 --> 00:21:08.785
+<v AKSHAYA GANESAN .>but we will not be developing any
+particularly,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2293-3
+00:21:08.785 --> 00:21:12.737
+<v AKSHAYA GANESAN .>we will not get into the agentic aspects
+of it.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2308-0
+00:21:14.257 --> 00:21:19.040
+<v AKSHAYA GANESAN .>uses of AI in every phase of development,
+how we can automate SDLC,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2308-1
+00:21:19.040 --> 00:21:22.417
+<v AKSHAYA GANESAN .>that's exactly right,
+to improve the workflows.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2337-0
+00:21:24.657 --> 00:21:30.755
+<v AKSHAYA GANESAN .>AI how to and how entire software
+Development phase end to end is using AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2337-1
+00:21:30.755 --> 00:21:35.489
+<v AKSHAYA GANESAN .>That's exactly right.
+And AI assisted architect design and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2337-2
+00:21:35.489 --> 00:21:38.217
+<v AKSHAYA GANESAN .>coding. That's also exactly right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2338-0
+00:21:40.817 --> 00:21:41.217
+<v AKSHAYA GANESAN .>S.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2358-0
+00:21:46.257 --> 00:21:50.003
+<v AKSHAYA GANESAN .>Yes,
+and VMP has been brought on traditional</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2358-1
+00:21:50.003 --> 00:21:54.082
+<v AKSHAYA GANESAN .>process,
+how it has evolved with AI tools at all</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2358-2
+00:21:54.082 --> 00:21:56.497
+<v AKSHAYA GANESAN .>phases. That's exactly right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2369-0
+00:21:59.937 --> 00:22:03.617
+<v AKSHAYA GANESAN .>So want to know where AI helps the most
+in SDLC?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2411-0
+00:22:06.097 --> 00:22:09.668
+<v AKSHAYA GANESAN .>OK,
+that there is no right answer for that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2411-1
+00:22:09.668 --> 00:22:15.674
+<v AKSHAYA GANESAN .>OK, probably, or to be very frank,
+I even don't know where it is the most</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2411-2
+00:22:15.674 --> 00:22:19.652
+<v AKSHAYA GANESAN .>helpful,
+but where it is actually adopted faster</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2411-3
+00:22:19.652 --> 00:22:25.577
+<v AKSHAYA GANESAN .>and in practice I can give you some
+numbers later in the in the upcoming</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2411-4
+00:22:25.577 --> 00:22:28.337
+<v AKSHAYA GANESAN .>classes, but today I can tell you.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2427-0
+00:22:28.817 --> 00:22:35.316
+<v AKSHAYA GANESAN .>The initial parts,
+that is requirements gathering when you</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2427-1
+00:22:35.316 --> 00:22:42.257
+<v AKSHAYA GANESAN .>do want to collate few informations,
+coding of enough testing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2467-0
+00:22:44.257 --> 00:22:48.375
+<v AKSHAYA GANESAN .>And of course,
+a few maintenance work is where it is</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2467-1
+00:22:48.375 --> 00:22:52.648
+<v AKSHAYA GANESAN .>being adopted.
+But where many of us are still not very</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2467-2
+00:22:52.648 --> 00:22:58.321
+<v AKSHAYA GANESAN .>confident or many of the industries are
+not ready to take the risk is on</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2467-3
+00:22:58.321 --> 00:23:01.972
+<v AKSHAYA GANESAN .>believing it on the production ready
+software.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2467-4
+00:23:01.972 --> 00:23:04.537
+<v AKSHAYA GANESAN .>So whenever you want to do a POC,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2489-0
+00:23:05.057 --> 00:23:10.051
+<v AKSHAYA GANESAN .>or MVP and share it with your internal
+team or you want to pitch it to your</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2489-1
+00:23:10.051 --> 00:23:13.074
+<v AKSHAYA GANESAN .>client.
+I think almost in all phases they are</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2489-2
+00:23:13.074 --> 00:23:16.097
+<v AKSHAYA GANESAN .>doing it,
+but when they have to go and touch.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2525-0
+00:23:17.297 --> 00:23:24.558
+<v AKSHAYA GANESAN .>the legacy code or brownfield
+developments or and you want to make it</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2525-1
+00:23:24.558 --> 00:23:30.886
+<v AKSHAYA GANESAN .>more productionized.
+We still are not 100% confident on what</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2525-2
+00:23:30.886 --> 00:23:36.177
+<v AKSHAYA GANESAN .>is coming out of AI.
+We are looking at ways and...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2560-0
+00:23:36.297 --> 00:23:40.236
+<v AKSHAYA GANESAN .>We are looking at ways in which the trust
+can be improved.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2560-1
+00:23:40.236 --> 00:23:45.576
+<v AKSHAYA GANESAN .>We are also looking at ways in which we
+can bring in the deterministic approach</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2560-2
+00:23:45.576 --> 00:23:50.050
+<v AKSHAYA GANESAN .>from the non-deterministic answers which
+are coming out of the AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2560-3
+00:23:50.050 --> 00:23:55.057
+<v AKSHAYA GANESAN .>So our entire course is actually going to
+be that. We are going to look at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2563-0
+00:23:55.657 --> 00:23:58.177
+<v AKSHAYA GANESAN .>What AI tool is available first?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2609-0
+00:23:59.337 --> 00:24:03.681
+<v AKSHAYA GANESAN .>what it is doing.
+So this is going to be the pattern. Okay,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2609-1
+00:24:03.681 --> 00:24:08.677
+<v AKSHAYA GANESAN .>we'll start with every phase of SDLC.
+We'll start with requirements.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2609-2
+00:24:08.677 --> 00:24:13.672
+<v AKSHAYA GANESAN .>We are going to 1st look at what is
+requirements engineering or what</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2609-3
+00:24:13.672 --> 00:24:18.017
+<v AKSHAYA GANESAN .>generally they do there and what AI is
+going to help there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2658-0
+00:24:18.297 --> 00:24:21.851
+<v AKSHAYA GANESAN .>What are the risks it brings in?
+Can we trust that risk?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2658-1
+00:24:21.851 --> 00:24:25.780
+<v AKSHAYA GANESAN .>Or how do we reduce the risk?
+Or how do we eliminate the risk?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2658-2
+00:24:25.780 --> 00:24:28.898
+<v AKSHAYA GANESAN .>What are the guardrails we are going to
+build on?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2658-3
+00:24:28.898 --> 00:24:33.076
+<v AKSHAYA GANESAN .>What are the best practices the industry
+is practicing to do that?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2658-4
+00:24:33.076 --> 00:24:36.257
+<v AKSHAYA GANESAN .>So this is what we are going to do at
+every phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2699-0
+00:24:37.457 --> 00:24:42.571
+<v AKSHAYA GANESAN .>So we are going to analyze both the pros
+and the cons and we are also going to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2699-1
+00:24:42.571 --> 00:24:46.196
+<v AKSHAYA GANESAN .>come up with solutions,
+what can be the best solutions.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2699-2
+00:24:46.196 --> 00:24:51.116
+<v AKSHAYA GANESAN .>And now the solutions part is evolving
+because everyone is right now in the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2699-3
+00:24:51.116 --> 00:24:55.842
+<v AKSHAYA GANESAN .>current phase, they are using the AI.
+So there might be right now we are</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2699-4
+00:24:55.842 --> 00:24:57.137
+<v AKSHAYA GANESAN .>building guardrails.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2736-0
+00:24:58.337 --> 00:25:03.217
+<v AKSHAYA GANESAN .>We are coming up with frameworks.
+We are bringing in harness engineering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2736-1
+00:25:03.217 --> 00:25:06.514
+<v AKSHAYA GANESAN .>There are people who are writing many
+guardrails.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2736-2
+00:25:06.514 --> 00:25:11.131
+<v AKSHAYA GANESAN .>There are people who are going with
+complete spec driven Development.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2736-3
+00:25:11.131 --> 00:25:14.428
+<v AKSHAYA GANESAN .>So there are many things we are doing to
+control,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2736-4
+00:25:14.428 --> 00:25:16.737
+<v AKSHAYA GANESAN .>bring a control to that particular.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2771-0
+00:25:17.817 --> 00:25:22.543
+<v AKSHAYA GANESAN .>phase where we are using AI.
+So we are going to discuss all this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2771-1
+00:25:22.543 --> 00:25:28.142
+<v AKSHAYA GANESAN .>probably while we are doing the course.
+There might be a lot of changes also</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2771-2
+00:25:28.142 --> 00:25:31.777
+<v AKSHAYA GANESAN .>which is coming in because it's a
+evolving field.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2771-3
+00:25:31.777 --> 00:25:35.777
+<v AKSHAYA GANESAN .>We will look at what are the aspects of
+it. Okay, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2791-0
+00:25:38.657 --> 00:25:42.543
+<v AKSHAYA GANESAN .>Yeah, of course we will look,
+when we look at the challenges,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2791-1
+00:25:42.543 --> 00:25:47.057
+<v AKSHAYA GANESAN .>we will look at the utilization costs,
+the token problem, token maxing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2811-0
+00:25:49.217 --> 00:25:52.864
+<v AKSHAYA GANESAN .>How do we reduce tokens?
+So we will look at how, what,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2811-1
+00:25:52.864 --> 00:25:56.977
+<v AKSHAYA GANESAN .>how can we optimize this?
+All this we will obviously look at.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2818-0
+00:25:58.657 --> 00:26:02.297
+<v AKSHAYA GANESAN .>Okay, going to the responses, I see 23%.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2839-0
+00:26:04.657 --> 00:26:14.868
+<v AKSHAYA GANESAN .>Of them use for writing and refracting
+code, 18% use for documentation and test,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2839-1
+00:26:14.868 --> 00:26:17.137
+<v AKSHAYA GANESAN .>20% for debugging.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2893-0
+00:26:18.897 --> 00:26:22.845
+<v AKSHAYA GANESAN .>21% for learning,
+11% for planning or breakdown of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2893-1
+00:26:22.845 --> 00:26:27.025
+<v AKSHAYA GANESAN .>requirements, and the 3% for the others.
+Yeah. Right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2893-2
+00:26:27.025 --> 00:26:32.211
+<v AKSHAYA GANESAN .>So I will also share a form later after
+the class with all of you,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2893-3
+00:26:32.211 --> 00:26:37.630
+<v AKSHAYA GANESAN .>just to understand a background at where
+do most of you work? I mean,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2893-4
+00:26:37.630 --> 00:26:42.817
+<v AKSHAYA GANESAN .>work in the sense what kind of area,
+what is your day-to-day work?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2931-0
+00:26:43.297 --> 00:26:48.613
+<v AKSHAYA GANESAN .>so that we can also fine tune our
+examples in a more suitable way for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2931-1
+00:26:48.613 --> 00:26:52.258
+<v AKSHAYA GANESAN .>majority,
+because always we have diverse crowds</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2931-2
+00:26:52.258 --> 00:26:56.738
+<v AKSHAYA GANESAN .>kind of audience.
+So we'll see how we can put into buckets</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2931-3
+00:26:56.738 --> 00:27:02.434
+<v AKSHAYA GANESAN .>so that we can have examples at all
+phases without deviating from what the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2931-4
+00:27:02.434 --> 00:27:04.257
+<v AKSHAYA GANESAN .>courses intend to cover.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2939-0
+00:27:05.417 --> 00:27:09.537
+<v AKSHAYA GANESAN .>Right, so,
+so this is the two questions I had.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2944-0
+00:27:11.377 --> 00:27:12.897
+<v AKSHAYA GANESAN .>So now getting into...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2958-0
+00:27:14.297 --> 00:27:20.897
+<v AKSHAYA GANESAN .>What is Software Development Life Cycle
+before AI, forget AI came in all that?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2968-0
+00:27:22.057 --> 00:27:26.257
+<v AKSHAYA GANESAN .>When you look at the Software Development
+Life Cycle, it is a process.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/2971-0
+00:27:27.697 --> 00:27:29.137
+<v AKSHAYA GANESAN .>All those who have done.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3015-0
+00:27:30.097 --> 00:27:34.669
+<v AKSHAYA GANESAN .>computer science degree in your UG,
+you would have had this course on</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3015-1
+00:27:34.669 --> 00:27:38.785
+<v AKSHAYA GANESAN .>software engineering,
+which mostly would have been theoretical</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3015-2
+00:27:38.785 --> 00:27:41.724
+<v AKSHAYA GANESAN .>in nature. But obviously,
+when you had work,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3015-3
+00:27:41.724 --> 00:27:44.664
+<v AKSHAYA GANESAN .>you would have implemented many parts of
+it,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3015-4
+00:27:44.664 --> 00:27:48.257
+<v AKSHAYA GANESAN .>or you would have experienced many parts
+of it, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3043-0
+00:27:50.497 --> 00:27:56.770
+<v AKSHAYA GANESAN .>So this SDLC, this circle you see here,
+there is a planning phase, analysis,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3043-1
+00:27:56.770 --> 00:28:02.635
+<v AKSHAYA GANESAN .>design, implementation, testing,
+and integration. This is a very rough,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3043-2
+00:28:02.635 --> 00:28:08.257
+<v AKSHAYA GANESAN .>a very broad level overview of what
+Software Development Life Cycle.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3045-0
+00:28:09.537 --> 00:28:10.417
+<v AKSHAYA GANESAN .>Is actually.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-0
+00:28:13.457 --> 00:28:17.390
+<v AKSHAYA GANESAN .>Now, in this itself,
+there are many evolution which has</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-1
+00:28:17.390 --> 00:28:21.534
+<v AKSHAYA GANESAN .>happened. This is not,
+this phase is not followed as such.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-2
+00:28:21.534 --> 00:28:25.678
+<v AKSHAYA GANESAN .>There are so many iterations within this
+each phase. Plus,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-3
+00:28:25.678 --> 00:28:30.735
+<v AKSHAYA GANESAN .>if you look at each of the roles which
+have evolved out for each phase,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-4
+00:28:30.735 --> 00:28:34.808
+<v AKSHAYA GANESAN .>we will look at the next slide,
+which is on the roles and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3096-5
+00:28:34.808 --> 00:28:37.337
+<v AKSHAYA GANESAN .>responsibilities at each phase, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3133-0
+00:28:37.417 --> 00:28:42.136
+<v AKSHAYA GANESAN .>etc. So planning, analysis, design,
+implementation, testing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3133-1
+00:28:42.136 --> 00:28:45.928
+<v AKSHAYA GANESAN .>and also there is something on
+maintenance, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3133-2
+00:28:45.928 --> 00:28:51.808
+<v AKSHAYA GANESAN .>So each of this phase has a certain set
+of tasks which has to be completed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3133-3
+00:28:51.808 --> 00:28:57.457
+<v AKSHAYA GANESAN .>There are a set of responsibilities and
+roles which is done by everyone.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3155-0
+00:28:57.857 --> 00:29:02.946
+<v AKSHAYA GANESAN .>And it's not a waterfall model anymore,
+right? You finish off one phase,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3155-1
+00:29:02.946 --> 00:29:06.153
+<v AKSHAYA GANESAN .>you close it,
+you cannot open that box again.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3155-2
+00:29:06.153 --> 00:29:07.617
+<v AKSHAYA GANESAN .>That's not how it is.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3198-0
+00:29:08.897 --> 00:29:13.062
+<v AKSHAYA GANESAN .>Right, you have an iterative development.
+You,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3198-1
+00:29:13.062 --> 00:29:19.974
+<v AKSHAYA GANESAN .>your other system today is flexible that
+we can go and change at any go back,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3198-2
+00:29:19.974 --> 00:29:24.937
+<v AKSHAYA GANESAN .>revisit at any phase again,
+so I can go in and out. So,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3198-3
+00:29:24.937 --> 00:29:29.457
+<v AKSHAYA GANESAN .>if I'm I completed planning,
+I went into analysis.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3239-0
+00:29:29.817 --> 00:29:34.429
+<v AKSHAYA GANESAN .>And I went into design,
+but I encountered a few challenges.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3239-1
+00:29:34.429 --> 00:29:38.888
+<v AKSHAYA GANESAN .>I can go back to analysis,
+or even I can again go back to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3239-2
+00:29:38.888 --> 00:29:43.116
+<v AKSHAYA GANESAN .>requirements, re-licit, right?
+During implementations,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3239-3
+00:29:43.116 --> 00:29:48.497
+<v AKSHAYA GANESAN .>I can come back and change a few things
+on design. So that's how I...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3263-0
+00:29:48.697 --> 00:29:54.957
+<v AKSHAYA GANESAN .>iterations have been and we went in for
+more agile and iterated Development and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3263-1
+00:29:54.957 --> 00:30:01.217
+<v AKSHAYA GANESAN .>we have a lot of process plus frameworks
+which are supporting us in that right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3285-0
+00:30:04.497 --> 00:30:08.623
+<v AKSHAYA GANESAN .>Yeah, so is the slide shared in Teams? No,
+not yet.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3285-1
+00:30:08.623 --> 00:30:14.337
+<v AKSHAYA GANESAN .>I will share it after the class in Teams
+as well as in the course page.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3314-0
+00:30:17.777 --> 00:30:21.118
+<v AKSHAYA GANESAN .>Okay,
+a few operational things I will cover at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3314-1
+00:30:21.118 --> 00:30:24.672
+<v AKSHAYA GANESAN .>the end.
+I'll just talk about a few things on the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3314-2
+00:30:24.672 --> 00:30:28.155
+<v AKSHAYA GANESAN .>course,
+a few things on the operational aspects,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3314-3
+00:30:28.155 --> 00:30:31.497
+<v AKSHAYA GANESAN .>plus the evaluation,
+all that I'll just cover.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3316-0
+00:30:34.417 --> 00:30:35.057
+<v AKSHAYA GANESAN .>Shopping.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3335-0
+00:30:36.657 --> 00:30:41.234
+<v AKSHAYA GANESAN .>So now coming to the
+stSemAIMLstudentsdocs phases,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3335-1
+00:30:41.234 --> 00:30:47.697
+<v AKSHAYA GANESAN .>so one thing I wanted to put right away
+in the very first class itself.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3349-0
+00:30:48.897 --> 00:30:56.128
+<v AKSHAYA GANESAN .>We are exploring the evolving landscape
+of AI Augmented Software Development Life</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3349-1
+00:30:56.128 --> 00:30:56.657
+<v AKSHAYA GANESAN .>Cycle.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3362-0
+00:30:58.017 --> 00:31:05.057
+<v AKSHAYA GANESAN .>Emphasizing that AI will act as an
+amplifier of all the phases.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3377-0
+00:31:06.017 --> 00:31:12.559
+<v AKSHAYA GANESAN .>It will amplify the organizational
+strengths and it will reduce time,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3377-1
+00:31:12.559 --> 00:31:16.017
+<v AKSHAYA GANESAN .>efforts and reduce the problems, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3399-0
+00:31:18.257 --> 00:31:23.346
+<v AKSHAYA GANESAN .>But we will also have to be very clear
+that while there is a sugar rush for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3399-1
+00:31:23.346 --> 00:31:27.297
+<v AKSHAYA GANESAN .>local productivity,
+like there are coding assistance, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3436-0
+00:31:29.617 --> 00:31:36.974
+<v AKSHAYA GANESAN .>In the industry or the research which is
+there today or the data which we have</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3436-1
+00:31:36.974 --> 00:31:44.704
+<v AKSHAYA GANESAN .>today suggests that significant business
+value or significant return on investment</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3436-2
+00:31:44.704 --> 00:31:48.337
+<v AKSHAYA GANESAN .>or outcome only emerges or will emerge.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3438-0
+00:31:48.737 --> 00:31:49.537
+<v AKSHAYA GANESAN .>Only when...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3477-0
+00:31:50.577 --> 00:31:56.580
+<v AKSHAYA GANESAN .>There is a strong engineering foundations
+and clear workflows which are there in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3477-1
+00:31:56.580 --> 00:32:01.324
+<v AKSHAYA GANESAN .>place. So if a, for example,
+let's take a company X who already</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3477-2
+00:32:01.324 --> 00:32:07.179
+<v AKSHAYA GANESAN .>doesn't have a clear platform engineering
+or clear workflows already in place,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3477-3
+00:32:07.179 --> 00:32:10.737
+<v AKSHAYA GANESAN .>AI is not going to come there and do any
+magic.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3478-0
+00:32:10.777 --> 00:32:10.977
+<v AKSHAYA GANESAN .>Then.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3510-0
+00:32:12.977 --> 00:32:19.116
+<v AKSHAYA GANESAN .>If there are a few standard pillars which
+are required for the software engineering</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3510-1
+00:32:19.116 --> 00:32:23.355
+<v AKSHAYA GANESAN .>which is there,
+so it's not going to come and replace all</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3510-2
+00:32:23.355 --> 00:32:28.178
+<v AKSHAYA GANESAN .>those standard pillars.
+When I say standard pillars, the process,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3510-3
+00:32:28.178 --> 00:32:28.617
+<v AKSHAYA GANESAN .>the...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3541-0
+00:32:30.737 --> 00:32:37.644
+<v AKSHAYA GANESAN .>There are a lot of things right from the
+code standards we maintain,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3541-1
+00:32:37.644 --> 00:32:42.950
+<v AKSHAYA GANESAN .>the quality gates we have,
+the platform engineering,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3541-2
+00:32:42.950 --> 00:32:48.657
+<v AKSHAYA GANESAN .>the workflow approach we have,
+all these are pillars. So</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3563-0
+00:32:50.257 --> 00:32:55.604
+<v AKSHAYA GANESAN .>AI is going to come and reduce the
+weaknesses, problems, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3563-1
+00:32:55.604 --> 00:33:02.417
+<v AKSHAYA GANESAN .>And it is going to be an amplifier for
+the existing strengths which are there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3571-0
+00:33:03.697 --> 00:33:06.977
+<v AKSHAYA GANESAN .>So it's not going to replace or remove
+out any of the.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3609-0
+00:33:08.337 --> 00:33:13.219
+<v AKSHAYA GANESAN .>aspects out there.
+So that's what the data we have to do.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3609-1
+00:33:13.219 --> 00:33:19.447
+<v AKSHAYA GANESAN .>So a transition from a traditional
+development model to a system-oriented</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3609-2
+00:33:19.447 --> 00:33:26.097
+<v AKSHAYA GANESAN .>approach that integrates AI across all
+phases is what we are going to look at.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3634-0
+00:33:26.977 --> 00:33:32.041
+<v AKSHAYA GANESAN .>And there are,
+we are going to look at how that human</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3634-1
+00:33:32.041 --> 00:33:37.763
+<v AKSHAYA GANESAN .>validation is required,
+how governance is required to ensure</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3634-2
+00:33:37.763 --> 00:33:43.297
+<v AKSHAYA GANESAN .>there is stable software,
+but there is no technical depth.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3682-0
+00:33:45.217 --> 00:33:51.006
+<v AKSHAYA GANESAN .>And we also will look at metrics.
+So the traditional metrics are no more</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3682-1
+00:33:51.006 --> 00:33:57.509
+<v AKSHAYA GANESAN .>suitable when it comes to a code which is
+developed in assistance with AI. Right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3682-2
+00:33:57.509 --> 00:34:03.537
+<v AKSHAYA GANESAN .>So we have to measure many other things
+also. So we will look at that also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3721-0
+00:34:03.937 --> 00:34:07.441
+<v AKSHAYA GANESAN .>Okay,
+so the point I wanted to put here is we</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3721-1
+00:34:07.441 --> 00:34:11.936
+<v AKSHAYA GANESAN .>will be evaluating, we will,
+when I say AI Augmented SDLC,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3721-2
+00:34:11.936 --> 00:34:17.040
+<v AKSHAYA GANESAN .>it doesn't mean I will for sure use AI at
+all phases or all tasks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3721-3
+00:34:17.040 --> 00:34:22.297
+<v AKSHAYA GANESAN .>We will evaluate whether AI fits there,
+what are the problems and...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3739-0
+00:34:22.417 --> 00:34:26.684
+<v AKSHAYA GANESAN .>If it's right,
+we will use it at this point in time.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3739-1
+00:34:26.684 --> 00:34:32.884
+<v AKSHAYA GANESAN .>We will look at both the positives as
+well as the negatives when it comes to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3739-2
+00:34:32.884 --> 00:34:34.817
+<v AKSHAYA GANESAN .>applying at every phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3769-0
+00:34:36.737 --> 00:34:43.276
+<v AKSHAYA GANESAN .>Okay, now coming to the SDLC phases.
+So it starts with the planning phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3769-1
+00:34:43.276 --> 00:34:49.379
+<v AKSHAYA GANESAN .>So the primary responsible roles,
+product managers, engineering lead,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3769-2
+00:34:49.379 --> 00:34:51.297
+<v AKSHAYA GANESAN .>business stakeholders.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3771-0
+00:34:52.577 --> 00:34:53.937
+<v AKSHAYA GANESAN .>And then we have...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3800-0
+00:34:55.457 --> 00:35:00.094
+<v AKSHAYA GANESAN .>What they basically do,
+they start with the initial planning,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3800-1
+00:35:00.094 --> 00:35:05.853
+<v AKSHAYA GANESAN .>they define the scope of the project,
+the budgeting, the resources involved,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3800-2
+00:35:05.853 --> 00:35:08.097
+<v AKSHAYA GANESAN .>the high level timelines, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-0
+00:35:09.177 --> 00:35:12.489
+<v AKSHAYA GANESAN .>Right,
+and then comes the requirements phase,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-1
+00:35:12.489 --> 00:35:18.249
+<v AKSHAYA GANESAN .>business analysts, product owners. I mean,
+this is a very broad overview, okay?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-2
+00:35:18.249 --> 00:35:22.137
+<v AKSHAYA GANESAN .>So I just put it up so that the, the, the,
+the model,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-3
+00:35:22.137 --> 00:35:27.249
+<v AKSHAYA GANESAN .>it matches with the modular structure.
+There are so many other things,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-4
+00:35:27.249 --> 00:35:31.281
+<v AKSHAYA GANESAN .>each of them,
+each of this can go into an entire course</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3846-5
+00:35:31.281 --> 00:35:31.857
+<v AKSHAYA GANESAN .>as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3887-0
+00:35:32.337 --> 00:35:36.330
+<v AKSHAYA GANESAN .>But since this is being an introductory
+course,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3887-1
+00:35:36.330 --> 00:35:42.903
+<v AKSHAYA GANESAN .>we will look at the most important key
+tasks in artifacts. So in requirements,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3887-2
+00:35:42.903 --> 00:35:48.061
+<v AKSHAYA GANESAN .>we detailed it out,
+analyzed the requirements that just come,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3887-3
+00:35:48.061 --> 00:35:53.137
+<v AKSHAYA GANESAN .>put it out in terms of software
+requirements specifications.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3902-0
+00:35:53.537 --> 00:35:58.981
+<v AKSHAYA GANESAN .>clarify the acceptance criteria with the
+different stakeholders, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3902-1
+00:35:58.981 --> 00:36:01.937
+<v AKSHAYA GANESAN .>And then we get into the design phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3909-0
+00:36:02.897 --> 00:36:04.737
+<v AKSHAYA GANESAN .>So initial design starts with.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3955-0
+00:36:07.537 --> 00:36:12.859
+<v AKSHAYA GANESAN .>the architecture design,
+the database design, the UI-UX design.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3955-1
+00:36:12.859 --> 00:36:17.267
+<v AKSHAYA GANESAN .>You go back to your users,
+understand the end users,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3955-2
+00:36:17.267 --> 00:36:23.753
+<v AKSHAYA GANESAN .>you do a little bit of user studies.
+So then you come and do the UI-UX design</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3955-3
+00:36:23.753 --> 00:36:28.577
+<v AKSHAYA GANESAN .>class, the product design.
+Then we go into developing the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3958-0
+00:36:29.297 --> 00:36:30.097
+<v AKSHAYA GANESAN .>Prototypes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3972-0
+00:36:31.297 --> 00:36:36.880
+<v AKSHAYA GANESAN .>Then, as the implementation phase,
+so we write code, perform unit test,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3972-1
+00:36:36.880 --> 00:36:38.897
+<v AKSHAYA GANESAN .>conduct peer code reviews.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3983-0
+00:36:40.737 --> 00:36:45.152
+<v AKSHAYA GANESAN .>Then we also do the integration testing,
+regulation testing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/3983-1
+00:36:45.152 --> 00:36:46.817
+<v AKSHAYA GANESAN .>and all kinds of tests.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4035-0
+00:36:49.217 --> 00:36:54.158
+<v AKSHAYA GANESAN .>So while implementation itself,
+we will have the CI/CD path set up,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4035-1
+00:36:54.158 --> 00:36:58.953
+<v AKSHAYA GANESAN .>the infrastructure set up.
+So we will have our different features</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4035-2
+00:36:58.953 --> 00:37:04.984
+<v AKSHAYA GANESAN .>set up. There will be a DevOps engineer,
+site reliability engineer who manages the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4035-3
+00:37:04.984 --> 00:37:09.925
+<v AKSHAYA GANESAN .>releases, executes, cut over,
+configures production infrastructure,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4035-4
+00:37:09.925 --> 00:37:12.977
+<v AKSHAYA GANESAN .>et cetera. And of course, the maintenance.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4059-0
+00:37:13.537 --> 00:37:19.037
+<v AKSHAYA GANESAN .>new developments, our PRs,
+pull request will come in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4059-1
+00:37:19.037 --> 00:37:24.946
+<v AKSHAYA GANESAN .>We monitor performance,
+we see how this can be automated,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4059-2
+00:37:24.946 --> 00:37:28.817
+<v AKSHAYA GANESAN .>observability, can there be time to...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4095-0
+00:37:30.097 --> 00:37:35.139
+<v AKSHAYA GANESAN .>recover from failures,
+the meantime to recover from failures,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4095-1
+00:37:35.139 --> 00:37:39.613
+<v AKSHAYA GANESAN .>can it be reduced?
+Can incident managements be handled</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4095-2
+00:37:39.613 --> 00:37:44.005
+<v AKSHAYA GANESAN .>automatically?
+So these are tasks which we look at in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4095-3
+00:37:44.005 --> 00:37:49.617
+<v AKSHAYA GANESAN .>the ops side. So in each of these phases,
+this is what is happening.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4101-0
+00:37:49.857 --> 00:37:54.737
+<v AKSHAYA GANESAN .>or this is what happened a few years back.
+Now, if you look...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4115-0
+00:37:56.497 --> 00:38:00.637
+<v AKSHAYA GANESAN .>I'm going to ask some questions since all
+of you are there in the IT industry.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4115-1
+00:38:00.637 --> 00:38:02.577
+<v AKSHAYA GANESAN .>What do you think they will use here?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4131-0
+00:38:05.337 --> 00:38:09.551
+<v AKSHAYA GANESAN .>What tool they might use here or what for
+what AI might be used here?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4131-1
+00:38:09.551 --> 00:38:11.057
+<v AKSHAYA GANESAN .>Just make a random guess.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4148-0
+00:38:12.017 --> 00:38:17.081
+<v AKSHAYA GANESAN .>Or if any of you are business
+stakeholders, product managers, et cetera,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4148-1
+00:38:17.081 --> 00:38:20.480
+<v AKSHAYA GANESAN .>you can see,
+you can tell probably where do you,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4148-2
+00:38:20.480 --> 00:38:21.937
+<v AKSHAYA GANESAN .>what do you use here.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4156-0
+00:38:25.377 --> 00:38:28.737
+<v GURDEEP SINGH KHURMI .>Microsoft Project usually they use
+currently.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4157-0
+00:38:28.337 --> 00:38:30.137
+<v AKSHAYA GANESAN .>Right, OK.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4169-0
+00:38:33.217 --> 00:38:37.424
+<v AKSHAYA GANESAN .>Copilot,
+I see Copilot Claude with reasoning. Yes,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4169-1
+00:38:37.424 --> 00:38:38.497
+<v AKSHAYA GANESAN .>that's right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4182-0
+00:38:43.457 --> 00:38:50.817
+<v AKSHAYA GANESAN .>Any project management tool they might
+use, true, is where I work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4184-0
+00:38:55.537 --> 00:38:57.217
+<v AKSHAYA GANESAN .>Right, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4189-0
+00:39:00.097 --> 00:39:03.777
+<v AKSHAYA GANESAN .>Microsoft, of course,
+will pilot everything.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4192-0
+00:39:06.337 --> 00:39:07.537
+<v AKSHAYA GANESAN .>So, second.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4195-0
+00:39:12.257 --> 00:39:14.017
+<v AKSHAYA GANESAN .>Requirements analysis.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4202-0
+00:39:15.377 --> 00:39:18.497
+<v AKSHAYA GANESAN .>Mostly the same set of tools or do we
+have anything specific?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4220-0
+00:39:24.097 --> 00:39:29.217
+<v AKSHAYA GANESAN .>Do you think they will probably they can
+generate user stories?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4220-1
+00:39:29.217 --> 00:39:34.977
+<v AKSHAYA GANESAN .>They can generate acceptance criteria
+from a set of SRS documents, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4221-0
+00:39:35.897 --> 00:39:36.497
+<v AKSHAYA GANESAN .>Right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4224-0
+00:39:41.377 --> 00:39:43.137
+<v AKSHAYA GANESAN .>GPD, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4233-0
+00:39:44.897 --> 00:39:49.137
+<v AKSHAYA GANESAN .>I'm not out of it for documentation.
+Is it OK?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4249-0
+00:39:51.937 --> 00:39:59.300
+<v AKSHAYA GANESAN .>Sirisha has given a new name to me today.
+Okay. Design phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4249-1
+00:39:59.300 --> 00:40:03.457
+<v AKSHAYA GANESAN .>So what do you think are the tools?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4254-0
+00:40:04.417 --> 00:40:06.897
+<v AKSHAYA GANESAN .>Open spec, yeah, open spec and remote.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4276-0
+00:40:10.337 --> 00:40:13.895
+<v AKSHAYA GANESAN .>So what about design Figma?
+Figma has an AI support.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4276-1
+00:40:13.895 --> 00:40:17.857
+<v AKSHAYA GANESAN .>All AI tools will be used with MCP
+servers connected, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4279-0
+00:40:23.457 --> 00:40:25.057
+<v AKSHAYA GANESAN .>Anything other than Figma?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4290-0
+00:40:25.857 --> 00:40:30.737
+<v AKSHAYA GANESAN .>For system architectural say as by visual
+user interface designs.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4291-0
+00:40:33.937 --> 00:40:34.497
+<v AKSHAYA GANESAN .>Nero.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4294-0
+00:40:40.177 --> 00:40:41.297
+<v AKSHAYA GANESAN .>Lucid chart.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4296-0
+00:40:44.857 --> 00:40:45.697
+<v AKSHAYA GANESAN .>So, are you?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4312-0
+00:40:48.657 --> 00:40:53.277
+<v AKSHAYA GANESAN .>So, draw,
+does it have some AI aspect came in?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4312-1
+00:40:53.277 --> 00:40:56.817
+<v AKSHAYA GANESAN .>I know Sigma and Miro had something.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4315-0
+00:40:57.697 --> 00:40:59.777
+<v AKSHAYA GANESAN .>I'm not sure about the others.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4334-0
+00:41:10.017 --> 00:41:18.271
+<v AKSHAYA GANESAN .>Yeah, image, image generator, typeface,
+yes, right. So now the most used part,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4334-1
+00:41:18.271 --> 00:41:20.257
+<v AKSHAYA GANESAN .>the implementation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4335-0
+00:41:26.097 --> 00:41:26.737
+<v AKSHAYA GANESAN .>Codex.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4343-0
+00:41:28.097 --> 00:41:32.337
+<v AKSHAYA GANESAN .>GitHub copilot anti-gravity plot code.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4345-0
+00:41:35.457 --> 00:41:36.337
+<v AKSHAYA GANESAN .>Inself.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4347-0
+00:41:40.577 --> 00:41:41.297
+<v AKSHAYA GANESAN .>Loveable.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4348-0
+00:41:44.777 --> 00:41:45.377
+<v AKSHAYA GANESAN .>Person.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4351-0
+00:41:46.817 --> 00:41:48.657
+<v AKSHAYA GANESAN .>Yes, template.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4391-0
+00:41:52.297 --> 00:41:56.923
+<v AKSHAYA GANESAN .>Right, all these are,
+they will use it for writing production</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4391-1
+00:41:56.923 --> 00:42:02.147
+<v AKSHAYA GANESAN .>for performance. So now there are,
+as I think someone said about MCP,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4391-2
+00:42:02.147 --> 00:42:05.878
+<v AKSHAYA GANESAN .>we will,
+we might be using Playwrite and we might</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4391-3
+00:42:05.878 --> 00:42:11.177
+<v AKSHAYA GANESAN .>be using MCP servers to connect.
+And we will still be generating some.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4396-0
+00:42:11.537 --> 00:42:14.337
+<v AKSHAYA GANESAN .>Or, six and drop, right? Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4398-0
+00:42:15.377 --> 00:42:17.057
+<v AKSHAYA GANESAN .>So, testing again.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4416-0
+00:42:18.257 --> 00:42:23.830
+<v AKSHAYA GANESAN .>the same set of coding tools plus is
+there anything specific other than the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4416-1
+00:42:23.830 --> 00:42:24.417
+<v AKSHAYA GANESAN .>MCP one?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4426-0
+00:42:28.177 --> 00:42:31.537
+<v AKSHAYA GANESAN .>Yeah,
+playwright I said MC playwright MCP</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4426-1
+00:42:31.537 --> 00:42:32.497
+<v AKSHAYA GANESAN .>videos. ODM.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4443-0
+00:42:38.017 --> 00:42:44.023
+<v AKSHAYA GANESAN .>Yes, so all these names are different,
+the tools are different,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4443-1
+00:42:44.023 --> 00:42:47.777
+<v AKSHAYA GANESAN .>but basically we are leveraging a model.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4476-0
+00:42:48.977 --> 00:42:55.060
+<v AKSHAYA GANESAN .>And we, there is a on top of the model,
+there is an engineering which has been</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4476-1
+00:42:55.060 --> 00:42:58.448
+<v AKSHAYA GANESAN .>done.
+That's what they call it as hardness.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4476-2
+00:42:58.448 --> 00:43:03.377
+<v AKSHAYA GANESAN .>And they are providing it with a specific
+feature to us, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4480-0
+00:43:04.657 --> 00:43:08.257
+<v AKSHAYA GANESAN .>So that's what we are going to look at,
+what it is.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4521-0
+00:43:09.777 --> 00:43:16.227
+<v AKSHAYA GANESAN .>in the course. So we will check,
+we will actually check what is best at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4521-1
+00:43:16.227 --> 00:43:22.677
+<v AKSHAYA GANESAN .>each phase and we will try to use,
+but majorly for demonstrations, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4521-2
+00:43:22.677 --> 00:43:28.410
+<v AKSHAYA GANESAN .>we will stick to Copilot,
+GitHub Copilot and Claude is what I'm</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4521-3
+00:43:28.410 --> 00:43:29.217
+<v AKSHAYA GANESAN .>thinking.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4535-0
+00:43:29.537 --> 00:43:34.445
+<v AKSHAYA GANESAN .>But let me see if there are any other
+interesting tools can be brought in also</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4535-1
+00:43:34.445 --> 00:43:35.937
+<v AKSHAYA GANESAN .>at each of these places.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4542-0
+00:43:36.977 --> 00:43:40.417
+<v AKSHAYA GANESAN .>Now a few important things.
+These are some of the...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4543-0
+00:43:41.857 --> 00:43:42.337
+<v AKSHAYA GANESAN .>Ohh.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4549-0
+00:43:43.377 --> 00:43:48.017
+<v AKSHAYA GANESAN .>Realities which we have as of today, so...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4565-0
+00:43:51.137 --> 00:43:56.177
+<v AKSHAYA GANESAN .>We'll discuss these are four things that
+just come up from one of the surveys.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4584-0
+00:43:58.897 --> 00:44:04.606
+<v AKSHAYA GANESAN .>So, this is from P.W.C.,
+the right agent D.S.D.L.C. in practice,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4584-1
+00:44:04.606 --> 00:44:07.857
+<v AKSHAYA GANESAN .>so it's a publication which has come.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4590-0
+00:44:09.217 --> 00:44:11.777
+<v AKSHAYA GANESAN .>So, AI work is surging.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4594-0
+00:44:12.897 --> 00:44:14.977
+<v AKSHAYA GANESAN .>So, I'm talking about the data part.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4611-0
+00:44:16.817 --> 00:44:21.021
+<v AKSHAYA GANESAN .>On Gitar,
+AI work is surging on the Gitar while the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4611-1
+00:44:21.021 --> 00:44:24.417
+<v AKSHAYA GANESAN .>global Development community is expanding.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4612-0
+00:44:26.097 --> 00:44:26.657
+<v AKSHAYA GANESAN .>And.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4637-0
+00:44:28.097 --> 00:44:33.359
+<v AKSHAYA GANESAN .>In 2024, I think, or 2025, starting,
+I don't exactly remember,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4637-1
+00:44:33.359 --> 00:44:39.457
+<v AKSHAYA GANESAN .>but this is the time when Python overtook
+JavaScript for the first time.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4647-0
+00:44:41.857 --> 00:44:48.497
+<v AKSHAYA GANESAN .>Total projects on GitHub with 25% growth.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4648-0
+00:44:49.777 --> 00:44:50.177
+<v AKSHAYA GANESAN .>Um...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4661-0
+00:44:51.697 --> 00:44:58.497
+<v AKSHAYA GANESAN .>And there have been many public Gen.
+AI projects with 90% year on year growth.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4666-0
+00:44:59.737 --> 00:45:02.017
+<v AKSHAYA GANESAN .>And Python overtakes JavaScript.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4677-0
+00:45:04.057 --> 00:45:08.817
+<v AKSHAYA GANESAN .>So this is the first headline we have,
+which we are looking at.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4687-0
+00:45:11.137 --> 00:45:16.429
+<v AKSHAYA GANESAN .>So,
+this has why this has occurred: one is</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4687-1
+00:45:16.429 --> 00:45:17.537
+<v AKSHAYA GANESAN .>velocity.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4707-0
+00:45:18.737 --> 00:45:24.163
+<v AKSHAYA GANESAN .>Contributions to Gen.
+AI projects jumped in 2024 and then a 98%</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4707-1
+00:45:24.163 --> 00:45:28.657
+<v AKSHAYA GANESAN .>increase happened in the number of
+projects overall.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4717-0
+00:45:31.857 --> 00:45:37.057
+<v AKSHAYA GANESAN .>And for one is velocity with which the
+tools can work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4730-0
+00:45:38.097 --> 00:45:42.701
+<v AKSHAYA GANESAN .>They shift tool chains and patterns
+faster than traditional release cycles</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4730-1
+00:45:42.701 --> 00:45:43.377
+<v AKSHAYA GANESAN .>can absorb.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4750-0
+00:45:45.217 --> 00:45:52.394
+<v AKSHAYA GANESAN .>Second is the AI literate developer base
+because all of us are trying out</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4750-1
+00:45:52.394 --> 00:45:56.177
+<v AKSHAYA GANESAN .>something or the other. We are curious.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4762-0
+00:45:57.537 --> 00:46:04.657
+<v AKSHAYA GANESAN .>And we also have the fear of missing our
+the form of aspect, yes, so all of us try.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4769-0
+00:46:06.017 --> 00:46:09.537
+<v AKSHAYA GANESAN .>So, AI literate developers face.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4819-0
+00:46:10.977 --> 00:46:16.438
+<v AKSHAYA GANESAN .>has increased. Everyone has able,
+AI has democratized coding and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4819-1
+00:46:16.438 --> 00:46:21.646
+<v AKSHAYA GANESAN .>development. So this child,
+this changes who builds software,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4819-2
+00:46:21.646 --> 00:46:27.864
+<v AKSHAYA GANESAN .>how quickly they can learn via AI,
+et cetera. So because in my poll also,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4819-3
+00:46:27.864 --> 00:46:34.417
+<v AKSHAYA GANESAN .>I saw 21% of us use it for learning.
+That's very true. I don't anymore go or.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4849-0
+00:46:34.497 --> 00:46:39.541
+<v AKSHAYA GANESAN .>Or depend on any web searches or any
+other documentations, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4849-1
+00:46:39.541 --> 00:46:44.980
+<v AKSHAYA GANESAN .>If I want a quick learning aspect,
+I depend on AI, of course, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4849-2
+00:46:44.980 --> 00:46:50.183
+<v AKSHAYA GANESAN .>So we use it for learning,
+so that because it speeds the learning</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4849-3
+00:46:50.183 --> 00:46:50.577
+<v AKSHAYA GANESAN .>part.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4864-0
+00:46:51.457 --> 00:46:59.563
+<v AKSHAYA GANESAN .>And Stack Drift Python rise to number one
+language and notebook usage has gone.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4864-1
+00:46:59.563 --> 00:47:00.577
+<v AKSHAYA GANESAN .>I reflect.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4895-0
+00:47:01.657 --> 00:47:08.369
+<v AKSHAYA GANESAN .>that we are no more just building thread
+based app. What is a thread based app?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4895-1
+00:47:08.369 --> 00:47:14.746
+<v AKSHAYA GANESAN .>Like create, read, update and delete.
+Like those were the most of our apps,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4895-2
+00:47:14.746 --> 00:47:19.697
+<v AKSHAYA GANESAN .>our web applications or mobile
+applications initially had.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4912-0
+00:47:21.057 --> 00:47:26.086
+<v AKSHAYA GANESAN .>Right, we have a database layer,
+and most of our applications have that</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4912-1
+00:47:26.086 --> 00:47:29.510
+<v AKSHAYA GANESAN .>that basic operations,
+and we have an interface,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4912-2
+00:47:29.510 --> 00:47:30.977
+<v AKSHAYA GANESAN .>we have a management.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4928-0
+00:47:32.737 --> 00:47:38.077
+<v AKSHAYA GANESAN .>So that's how it was.
+And JavaScript was the most suitable one</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4928-1
+00:47:38.077 --> 00:47:41.977
+<v AKSHAYA GANESAN .>for such kind of building of apps,
+et cetera.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4957-0
+00:47:43.177 --> 00:47:48.304
+<v AKSHAYA GANESAN .>But with Python taking up,
+it reflects that we are having more ML or</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4957-1
+00:47:48.304 --> 00:47:53.878
+<v AKSHAYA GANESAN .>agentic work in our applications.
+Maybe there are more AI features in each</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4957-2
+00:47:53.878 --> 00:47:57.297
+<v AKSHAYA GANESAN .>and every application coming in.
+So velocity.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4968-0
+00:47:58.497 --> 00:48:04.243
+<v AKSHAYA GANESAN .>talent and the stack drifting.
+That's what we take away from the first</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4968-1
+00:48:04.243 --> 00:48:05.377
+<v AKSHAYA GANESAN .>headline here.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4976-0
+00:48:07.457 --> 00:48:11.377
+<v AKSHAYA GANESAN .>Coming to the second one,
+the Stack Overflow.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4982-0
+00:48:17.137 --> 00:48:21.937
+<v AKSHAYA GANESAN .>AI tools are now mainstream.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/4990-0
+00:48:24.817 --> 00:48:29.217
+<v AKSHAYA GANESAN .>Eighty-four percent use or plan to use
+them.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5005-0
+00:48:30.417 --> 00:48:36.556
+<v AKSHAYA GANESAN .>And that's what this the detail says,
+and fifty-one percent of professional</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5005-1
+00:48:36.556 --> 00:48:38.657
+<v AKSHAYA GANESAN .>developers use them daily.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5006-0
+00:48:40.017 --> 00:48:40.577
+<v AKSHAYA GANESAN .>But.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5012-0
+00:48:42.257 --> 00:48:45.297
+<v AKSHAYA GANESAN .>Most teams still avoid AI for.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5017-0
+00:48:46.537 --> 00:48:48.897
+<v AKSHAYA GANESAN .>High risk SDLC steps.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5038-0
+00:48:51.377 --> 00:48:55.947
+<v AKSHAYA GANESAN .>Hi,
+this is actually this high-risk SDLC</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5038-1
+00:48:55.947 --> 00:49:03.417
+<v AKSHAYA GANESAN .>steps is like given by the Stack Overflow
+Development Survey 2025.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5074-0
+00:49:04.817 --> 00:49:10.602
+<v AKSHAYA GANESAN .>They have given a quote saying that AI is
+in daily use,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5074-1
+00:49:10.602 --> 00:49:17.525
+<v AKSHAYA GANESAN .>yet trust and scope limits remain.
+Because we are not yet have the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5074-2
+00:49:17.525 --> 00:49:25.377
+<v AKSHAYA GANESAN .>confidence to apply AI at all phases or
+hand over the most impactful tasks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5086-0
+00:49:25.457 --> 00:49:30.621
+<v AKSHAYA GANESAN .>to it because we don't have the
+confidence yet or AI has not gained the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5086-1
+00:49:30.621 --> 00:49:31.697
+<v AKSHAYA GANESAN .>confidence yet.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5091-0
+00:49:33.457 --> 00:49:35.617
+<v AKSHAYA GANESAN .>And what are the drivers for this?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5133-0
+00:49:36.737 --> 00:49:44.369
+<v AKSHAYA GANESAN .>is the confidence is there because the
+governance gap developers report lower</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5133-1
+00:49:44.369 --> 00:49:52.001
+<v AKSHAYA GANESAN .>positive sentiments because the tools
+struggle on complex tasks or they had a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5133-2
+00:49:52.001 --> 00:49:59.438
+<v AKSHAYA GANESAN .>few problems while they were using
+because of that they in the surveys also</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5133-3
+00:49:59.438 --> 00:50:00.417
+<v AKSHAYA GANESAN .>they have.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5174-0
+00:50:01.297 --> 00:50:06.020
+<v AKSHAYA GANESAN .>not confident and on high risk tasks,
+et cetera. And the resistance,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5174-1
+00:50:06.020 --> 00:50:11.085
+<v AKSHAYA GANESAN .>as I told one of you had a question,
+like where it is most useful, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5174-2
+00:50:11.085 --> 00:50:16.424
+<v AKSHAYA GANESAN .>I don't know whether it's most useful,
+but I'm sure where all of us have that</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5174-3
+00:50:16.424 --> 00:50:20.737
+<v AKSHAYA GANESAN .>little hesitance to apply is on the
+deployment and monitoring.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5214-0
+00:50:21.137 --> 00:50:25.455
+<v AKSHAYA GANESAN .>The resistance is highest there because
+anything goes wrong,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5214-1
+00:50:25.455 --> 00:50:30.553
+<v AKSHAYA GANESAN .>it directly impacts our revenue,
+it directly impacts our productionized</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5214-2
+00:50:30.553 --> 00:50:34.659
+<v AKSHAYA GANESAN .>softwares, etc.
+So deployment and monitoring is where the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5214-3
+00:50:34.659 --> 00:50:37.137
+<v AKSHAYA GANESAN .>resistance is high to use AI tools.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5231-0
+00:50:38.657 --> 00:50:45.493
+<v AKSHAYA GANESAN .>76% of the people said that we are not
+going to use it or don't plan to use it</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5231-1
+00:50:45.493 --> 00:50:47.137
+<v AKSHAYA GANESAN .>in the near future.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5264-0
+00:50:50.657 --> 00:50:55.149
+<v AKSHAYA GANESAN .>Project planning is where, again, 69%,
+you have to,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5264-1
+00:50:55.149 --> 00:50:59.900
+<v AKSHAYA GANESAN .>maybe you have to redesign controls and
+quality again.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5264-2
+00:50:59.900 --> 00:51:06.897
+<v AKSHAYA GANESAN .>So the governance gap is the first factor.
+We don't have the confidence in that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5270-0
+00:51:10.337 --> 00:51:12.977
+<v AKSHAYA GANESAN .>Daily usage of blank.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5275-0
+00:51:13.137 --> 00:51:13.537
+<v AKSHAYA GANESAN .>Um.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5287-0
+00:51:14.737 --> 00:51:18.480
+<v AKSHAYA GANESAN .>That is,
+you are already doing a task which you</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5287-1
+00:51:18.480 --> 00:51:24.017
+<v AKSHAYA GANESAN .>are well aware of. It requires you, uh,
+it, it, you want to use AI to.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5288-0
+00:51:24.897 --> 00:51:25.777
+<v AKSHAYA GANESAN .>Do some.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5327-0
+00:51:26.897 --> 00:51:33.010
+<v AKSHAYA GANESAN .>maybe a little bit of assistance to you,
+accelerate your work,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5327-1
+00:51:33.010 --> 00:51:39.221
+<v AKSHAYA GANESAN .>work as an amplifier, etc.
+That is where major of us are using.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5327-2
+00:51:39.221 --> 00:51:46.693
+<v AKSHAYA GANESAN .>Faster onboarding, fewer blank pages.
+So you can easily shift from junior to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5327-3
+00:51:46.693 --> 00:51:48.537
+<v AKSHAYA GANESAN .>senior levels, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5329-0
+00:51:49.537 --> 00:51:50.497
+<v AKSHAYA GANESAN .>So, talent.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5359-0
+00:51:51.697 --> 00:52:00.457
+<v AKSHAYA GANESAN .>is that AI is often quite highly used for
+writing, debugging, testing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5359-1
+00:52:00.457 --> 00:52:09.217
+<v AKSHAYA GANESAN .>but not for the high risk production
+gates, sign of models, et cetera.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5392-0
+00:52:11.417 --> 00:52:17.186
+<v AKSHAYA GANESAN .>Though it is adoption is daily,
+there is a lack of trust later.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5392-1
+00:52:17.186 --> 00:52:24.307
+<v AKSHAYA GANESAN .>So one of our aim in this course will
+also be to look at how that trust can be</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5392-2
+00:52:24.307 --> 00:52:28.995
+<v AKSHAYA GANESAN .>increased.
+What kind of quality gates or guardrails</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5392-3
+00:52:28.995 --> 00:52:30.257
+<v AKSHAYA GANESAN .>can be put in?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5395-0
+00:52:30.577 --> 00:52:33.057
+<v AKSHAYA GANESAN .>So that we can trust it for all kinds of..
+.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5399-0
+00:52:34.257 --> 00:52:36.737
+<v AKSHAYA GANESAN .>aspects aspect, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5406-0
+00:52:38.257 --> 00:52:40.977
+<v AKSHAYA GANESAN .>So the third one, this is my.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5409-0
+00:52:42.657 --> 00:52:44.177
+<v AKSHAYA GANESAN .>Most favorite also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5417-0
+00:52:48.017 --> 00:52:52.137
+<v AKSHAYA GANESAN .>80%, sorry, not 80%.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5434-0
+00:52:53.937 --> 00:52:59.572
+<v AKSHAYA GANESAN .>This experiment which was done,
+you can go read this report also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5434-1
+00:52:59.572 --> 00:53:04.097
+<v AKSHAYA GANESAN .>I think the entire report is there,
+the meta report.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5435-0
+00:53:05.297 --> 00:53:05.457
+<v AKSHAYA GANESAN .>Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5473-0
+00:53:06.617 --> 00:53:12.714
+<v AKSHAYA GANESAN .>There were first initially,
+there's an updated version of the report</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5473-1
+00:53:12.714 --> 00:53:19.341
+<v AKSHAYA GANESAN .>also, in 2026, I think. Initially,
+they took 16 experienced maintainers of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5473-2
+00:53:19.341 --> 00:53:26.057
+<v AKSHAYA GANESAN .>their own reports and asked them to use
+AI tools. And it had reported that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5483-0
+00:53:26.177 --> 00:53:31.017
+<v AKSHAYA GANESAN .>It had made them 19% slower on this real
+day-to-day task.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5498-0
+00:53:32.097 --> 00:53:36.973
+<v AKSHAYA GANESAN .>So all of us are believing that AI is
+going to come and amplify and reduce time</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5498-1
+00:53:36.973 --> 00:53:37.217
+<v AKSHAYA GANESAN .>for.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5538-0
+00:53:38.417 --> 00:53:45.739
+<v AKSHAYA GANESAN .>But when it was given to experience there,
+a set of people who were recruited and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5538-1
+00:53:45.739 --> 00:53:51.633
+<v AKSHAYA GANESAN .>did a survey and testing,
+they were initially having the problem,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5538-2
+00:53:51.633 --> 00:53:57.617
+<v AKSHAYA GANESAN .>90% slower with early 2025 AI tools.
+Now it will be not that slow.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5539-0
+00:53:57.857 --> 00:53:57.937
+<v AKSHAYA GANESAN .>The.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5568-0
+00:53:59.377 --> 00:54:03.268
+<v AKSHAYA GANESAN .>For 2 reasons, one,
+the tools have also developed well,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5568-1
+00:54:03.268 --> 00:54:08.550
+<v AKSHAYA GANESAN .>and we also have a cubed ourselves,
+we would have learned how to use tools,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5568-2
+00:54:08.550 --> 00:54:13.137
+<v AKSHAYA GANESAN .>we have an in-built understanding, etc.,
+counting in, etc. But...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5592-0
+00:54:14.337 --> 00:54:20.030
+<v AKSHAYA GANESAN .>The picture this gives us expectation is
+not going to be equal to reality,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5592-1
+00:54:20.030 --> 00:54:24.357
+<v AKSHAYA GANESAN .>at least yet. OK,
+the expectations equal to reality will</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5592-2
+00:54:24.357 --> 00:54:24.737
+<v AKSHAYA GANESAN .>come.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5613-0
+00:54:25.857 --> 00:54:33.141
+<v AKSHAYA GANESAN .>only when we have the trust and when we
+have tested it, right? So here, AI speed,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5613-1
+00:54:33.141 --> 00:54:39.537
+<v AKSHAYA GANESAN .>whatever the speed AI is bringing in or
+the velocity AI is bringing in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5660-0
+00:54:41.937 --> 00:54:46.089
+<v AKSHAYA GANESAN .>Is fine,
+but it also that speed also requires us</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5660-1
+00:54:46.089 --> 00:54:52.446
+<v AKSHAYA GANESAN .>to do something additional, right?
+Prompt iteration, verification, fixing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5660-2
+00:54:52.446 --> 00:54:57.192
+<v AKSHAYA GANESAN .>write code, right?
+Not these are all not linear things,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5660-3
+00:54:57.192 --> 00:55:04.057
+<v AKSHAYA GANESAN .>so if I can write a piece of a function,
+if I'm asked to write a small function.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5674-0
+00:55:04.177 --> 00:55:08.682
+<v AKSHAYA GANESAN .>or I'm asked to build,
+let's take a very simple task like login</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5674-1
+00:55:08.682 --> 00:55:11.217
+<v AKSHAYA GANESAN .>page. If I'm an expert, it takes me.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5696-0
+00:55:12.497 --> 00:55:18.954
+<v AKSHAYA GANESAN .>say 10 minutes to do that or I can do
+even lesser time than that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5696-1
+00:55:18.954 --> 00:55:26.097
+<v AKSHAYA GANESAN .>If the AI aspect which I'm going to bring
+in is going to take more time.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5739-0
+00:55:27.777 --> 00:55:32.012
+<v AKSHAYA GANESAN .>that the prompt I have to build,
+the verification I have to do,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5739-1
+00:55:32.012 --> 00:55:36.313
+<v AKSHAYA GANESAN .>the fixing later I have to do,
+all the iterations I have to run.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5739-2
+00:55:36.313 --> 00:55:41.210
+<v AKSHAYA GANESAN .>If it's going to be taking more time than
+what I have been doing already,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5739-3
+00:55:41.210 --> 00:55:45.777
+<v AKSHAYA GANESAN .>that is where it is going to slow down
+the existing productivity of.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5740-0
+00:55:45.817 --> 00:55:46.817
+<v AKSHAYA GANESAN .>Thank you, sir.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5791-0
+00:55:48.137 --> 00:55:52.135
+<v AKSHAYA GANESAN .>Right.
+So it's not that we should not use AI for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5791-1
+00:55:52.135 --> 00:55:56.460
+<v AKSHAYA GANESAN .>our day-to-day or things which are we are
+export at,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5791-2
+00:55:56.460 --> 00:56:03.070
+<v AKSHAYA GANESAN .>but we have to look at ways how this time
+can be reduced and how we also have to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5791-3
+00:56:03.070 --> 00:56:08.783
+<v AKSHAYA GANESAN .>consider the training or the initial
+phase where we do the migration,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5791-4
+00:56:08.783 --> 00:56:10.497
+<v AKSHAYA GANESAN .>the initial learning.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5799-0
+00:56:10.617 --> 00:56:15.697
+<v AKSHAYA GANESAN .>of understanding of the AI as we bring in.
+The second most factor.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5804-0
+00:56:17.857 --> 00:56:20.737
+<v AKSHAYA GANESAN .>Is only cost and quality.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5834-0
+00:56:25.217 --> 00:56:30.775
+<v AKSHAYA GANESAN .>The availability,
+like some of you were asking about tokens,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5834-1
+00:56:30.775 --> 00:56:34.693
+<v AKSHAYA GANESAN .>right?
+So is it really worth the number of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5834-2
+00:56:34.693 --> 00:56:42.257
+<v AKSHAYA GANESAN .>tokens for AI to do it or still I can do
+it myself? That's also a question, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5884-0
+00:56:45.377 --> 00:56:50.888
+<v AKSHAYA GANESAN .>So this I will this report I will get
+into it a little more in detail because I</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5884-1
+00:56:50.888 --> 00:56:56.674
+<v AKSHAYA GANESAN .>think I have not read the latest version.
+There is a 2026 follow up report also for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5884-2
+00:56:56.674 --> 00:57:02.461
+<v AKSHAYA GANESAN .>this. I will get into that a little daily,
+but the take away is speed gains are not</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5884-3
+00:57:02.461 --> 00:57:05.217
+<v AKSHAYA GANESAN .>guaranteed. We might we might expect it.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5907-0
+00:57:06.097 --> 00:57:10.332
+<v AKSHAYA GANESAN .>Maybe the product manager might think,
+okay, with just one prompt,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5907-1
+00:57:10.332 --> 00:57:14.314
+<v AKSHAYA GANESAN .>the feature can be ready,
+but there might be a lot of internal</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5907-2
+00:57:14.314 --> 00:57:16.337
+<v AKSHAYA GANESAN .>things which might not come out.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5909-0
+00:57:17.617 --> 00:57:19.217
+<v AKSHAYA GANESAN .>And the last one is...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5946-0
+00:57:21.537 --> 00:57:26.658
+<v AKSHAYA GANESAN .>on the AI native products from the third
+party APIs.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5946-1
+00:57:26.658 --> 00:57:33.615
+<v AKSHAYA GANESAN .>80% of the companies permit third party
+AI tools and 18% of developers,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5946-2
+00:57:33.615 --> 00:57:38.737
+<v AKSHAYA GANESAN .>they are already integrating AI into
+their products.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5953-0
+00:57:39.817 --> 00:57:44.497
+<v AKSHAYA GANESAN .>and AI is shifting us from assistance to
+capability.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5954-0
+00:57:45.697 --> 00:57:46.177
+<v AKSHAYA GANESAN .>Um...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5986-0
+00:57:50.257 --> 00:57:58.130
+<v AKSHAYA GANESAN .>So more products embedding AI means there
+will be more agentic workflows,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5986-1
+00:57:58.130 --> 00:58:03.982
+<v AKSHAYA GANESAN .>more non-determinism,
+and there has to be more runtime</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5986-2
+00:58:03.982 --> 00:58:10.047
+<v AKSHAYA GANESAN .>evaluation loops.
+SDLC must include model life cycle and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/5986-3
+00:58:10.047 --> 00:58:11.537
+<v AKSHAYA GANESAN .>observability.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6011-0
+00:58:15.137 --> 00:58:22.681
+<v AKSHAYA GANESAN .>So here you are using a third party tool.
+80% of the organizations,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6011-1
+00:58:22.681 --> 00:58:30.559
+<v AKSHAYA GANESAN .>they permit third party tools means there
+should be proper governance,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6011-2
+00:58:30.559 --> 00:58:33.777
+<v AKSHAYA GANESAN .>standard practices, policies,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6015-0
+00:58:34.977 --> 00:58:37.617
+<v AKSHAYA GANESAN .>Uh, which then we have our own.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6022-0
+00:58:38.897 --> 00:58:42.497
+<v AKSHAYA GANESAN .>gates or quality gates based on how we
+check that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6023-0
+00:58:43.697 --> 00:58:44.177
+<v AKSHAYA GANESAN .>Right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6025-0
+00:58:45.457 --> 00:58:46.177
+<v AKSHAYA GANESAN .>And.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6038-0
+00:58:48.017 --> 00:58:52.897
+<v AKSHAYA GANESAN .>The tooling and the ID, the ecosystem,
+the vendor ecosystem also should.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6052-0
+00:58:54.577 --> 00:58:57.435
+<v AKSHAYA GANESAN .>work.
+They should also standardize around AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6052-1
+00:58:57.435 --> 00:59:00.294
+<v AKSHAYA GANESAN .>features.
+Now with Visual Studio Code thing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6052-2
+00:59:00.294 --> 00:59:01.057
+<v AKSHAYA GANESAN .>there is no.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6058-0
+00:59:02.977 --> 00:59:05.457
+<v AKSHAYA GANESAN .>A option to add a copilot or.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6093-0
+00:59:06.577 --> 00:59:11.025
+<v AKSHAYA GANESAN .>a plot code there.
+It's not practically possible for us to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6093-1
+00:59:11.025 --> 00:59:17.207
+<v AKSHAYA GANESAN .>keep juggling between different tools,
+right? So there should be options and for,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6093-2
+00:59:17.207 --> 00:59:20.901
+<v AKSHAYA GANESAN .>they should also standardize around AI
+features,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6093-3
+00:59:20.901 --> 00:59:26.857
+<v AKSHAYA GANESAN .>compressing certain roles while elevating
+evaluation, safety risks, et cetera.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6098-0
+00:59:31.777 --> 00:59:35.057
+<v AKSHAYA GANESAN .>So, Software Development is there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6104-0
+00:59:36.497 --> 00:59:38.017
+<v AKSHAYA GANESAN .>AI adoption is very high.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6129-0
+00:59:41.257 --> 00:59:46.815
+<v AKSHAYA GANESAN .>36% of software roles use AI for at least
+quarter of their task.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6129-1
+00:59:46.815 --> 00:59:53.057
+<v AKSHAYA GANESAN .>So this is the area compared to all the
+other aspects. The highest is...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6133-0
+00:59:57.697 --> 00:59:59.217
+<v AKSHAYA GANESAN .>In Software Development.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6134-0
+01:00:00.377 --> 01:00:00.737
+<v AKSHAYA GANESAN .>But...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6175-0
+01:00:02.417 --> 01:00:08.790
+<v AKSHAYA GANESAN .>We also have to use 36% use only for
+certain of their tasks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6175-1
+01:00:08.790 --> 01:00:13.804
+<v AKSHAYA GANESAN .>4% use it extensively across all of their
+work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6175-2
+01:00:13.804 --> 01:00:19.028
+<v AKSHAYA GANESAN .>And if you look at all of the work that
+has come,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6175-3
+01:00:19.028 --> 01:00:25.297
+<v AKSHAYA GANESAN .>it's more augmentative in nature and not
+outrightly placed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6177-0
+01:00:25.537 --> 01:00:26.337
+<v AKSHAYA GANESAN .>So, that...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6223-0
+01:00:27.857 --> 01:00:32.148
+<v AKSHAYA GANESAN .>So this is like the title card I can put
+here, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6223-1
+01:00:32.148 --> 01:00:37.949
+<v AKSHAYA GANESAN .>So that's why it's AI Augmented SDLC.
+It's not AI SDLC. Like we are not,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6223-2
+01:00:37.949 --> 01:00:42.082
+<v AKSHAYA GANESAN .>AI is not replacing the software
+engineering there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6223-3
+01:00:42.082 --> 01:00:45.897
+<v AKSHAYA GANESAN .>It is only augmenting the software
+engineering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6257-0
+01:00:47.617 --> 01:00:54.107
+<v AKSHAYA GANESAN .>So, 57%, at least not yet. Okay,
+tomorrow I'm not sure. It might,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6257-1
+01:00:54.107 --> 01:01:00.990
+<v AKSHAYA GANESAN .>AI might replace that is software
+engineering and it might have an AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6257-2
+01:01:00.990 --> 01:01:06.497
+<v AKSHAYA GANESAN .>driven completely automated development
+life cycle. But</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6289-0
+01:01:06.577 --> 01:01:12.889
+<v AKSHAYA GANESAN .>At this point in time,
+it's mostly Augmented and not an outright</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6289-1
+01:01:12.889 --> 01:01:18.619
+<v AKSHAYA GANESAN .>replacement. So here,
+velocity plus cost is a major thing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6289-2
+01:01:18.619 --> 01:01:26.097
+<v AKSHAYA GANESAN .>Partial AI adoption speeds up the routine
+task, but still mixed usage means.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6297-0
+01:01:26.577 --> 01:01:33.897
+<v AKSHAYA GANESAN .>mixed usage conveys that we still have
+many things to fix there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6301-0
+01:01:36.737 --> 01:01:38.177
+<v AKSHAYA GANESAN .>And how do you bring?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6344-0
+01:01:40.017 --> 01:01:45.747
+<v AKSHAYA GANESAN .>The hybrid workflows where you have the
+AI augmenting plus you have the human</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6344-1
+01:01:45.747 --> 01:01:50.302
+<v AKSHAYA GANESAN .>developers as well.
+So you have to look at the collaboration,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6344-2
+01:01:50.302 --> 01:01:54.637
+<v AKSHAYA GANESAN .>the human in the loop aspects plus the
+collaborative ones.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6344-3
+01:01:54.637 --> 01:01:58.017
+<v AKSHAYA GANESAN .>It should not be just handoffs between
+teams.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6383-0
+01:01:59.377 --> 01:02:04.777
+<v AKSHAYA GANESAN .>How do we have a collaboration between
+human developers and AI tools?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6383-1
+01:02:04.777 --> 01:02:08.789
+<v AKSHAYA GANESAN .>So there are many things which will come
+there. So,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6383-2
+01:02:08.789 --> 01:02:13.342
+<v AKSHAYA GANESAN .>but we are very clear at this point in
+time on one aspect,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6383-3
+01:02:13.342 --> 01:02:18.897
+<v AKSHAYA GANESAN .>that it is mostly augmentation in nature
+and not automation completely.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6400-0
+01:02:19.537 --> 01:02:23.913
+<v AKSHAYA GANESAN .>Because we are having multiple
+checkpoints, multiple gates,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6400-1
+01:02:23.913 --> 01:02:29.457
+<v AKSHAYA GANESAN .>human in the loop checkpoints, et cetera,
+to just check off certain things.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6425-0
+01:02:32.417 --> 01:02:38.593
+<v AKSHAYA GANESAN .>So human decision making is still the
+crucial or remains central to this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6425-1
+01:02:38.593 --> 01:02:44.177
+<v AKSHAYA GANESAN .>adoption. So this is what the metrics,
+all these metrics tell us.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6464-0
+01:02:45.857 --> 01:02:52.701
+<v AKSHAYA GANESAN .>So, so far in these two slides,
+I've been talking about a few data to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6464-1
+01:02:52.701 --> 01:02:58.470
+<v AKSHAYA GANESAN .>give you all of you a picture where are
+we at today. Okay,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6464-2
+01:02:58.470 --> 01:03:05.217
+<v AKSHAYA GANESAN .>so we are not completely relying on AI or
+we don't have anyone who's</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6495-0
+01:03:05.297 --> 01:03:09.776
+<v AKSHAYA GANESAN .>not touching AI.
+So we are in the transition and this is</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6495-1
+01:03:09.776 --> 01:03:13.627
+<v AKSHAYA GANESAN .>the status.
+This is the reality we are in doing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6495-2
+01:03:13.627 --> 01:03:19.836
+<v AKSHAYA GANESAN .>So we have a lot of avenues or problems
+we can take up and work and we can see</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6495-3
+01:03:19.836 --> 01:03:23.137
+<v AKSHAYA GANESAN .>how it transitions into more productivity.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6504-0
+01:03:25.857 --> 01:03:30.017
+<v AKSHAYA GANESAN .>Also,
+we have to understand the risk involved.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6506-0
+01:03:32.177 --> 01:03:32.817
+<v AKSHAYA GANESAN .>In this.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6508-0
+01:03:35.297 --> 01:03:36.497
+<v AKSHAYA GANESAN .>Entire.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6520-0
+01:03:40.497 --> 01:03:46.097
+<v AKSHAYA GANESAN .>Using the AI aspects,
+so this is a metaphor I I just.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6523-0
+01:03:48.417 --> 01:03:50.497
+<v AKSHAYA GANESAN .>Liked very much.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6568-0
+01:03:52.097 --> 01:03:59.465
+<v AKSHAYA GANESAN .>So you have a high speed car that you
+want to drive and you want to utilize</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6568-1
+01:03:59.465 --> 01:04:05.379
+<v AKSHAYA GANESAN .>that to the maximum.
+But if you have to drive only in a road</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6568-2
+01:04:05.379 --> 01:04:11.196
+<v AKSHAYA GANESAN .>with traffic jam,
+you cannot use that particular car or you</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6568-3
+01:04:11.196 --> 01:04:14.977
+<v AKSHAYA GANESAN .>having that car is not going to benefit</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6569-0
+01:04:15.057 --> 01:04:15.297
+<v AKSHAYA GANESAN .>Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6607-0
+01:04:17.537 --> 01:04:22.131
+<v AKSHAYA GANESAN .>If you are entire,
+if you are driving in a traffic jam,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6607-1
+01:04:22.131 --> 01:04:26.069
+<v AKSHAYA GANESAN .>you have a certain limit with which you
+can go.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6607-2
+01:04:26.069 --> 01:04:32.714
+<v AKSHAYA GANESAN .>Just because your car can go to a speed,
+we cannot drive that way in the traffic</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6607-3
+01:04:32.714 --> 01:04:36.817
+<v AKSHAYA GANESAN .>jam, right?
+So that's what is the status we have.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6628-0
+01:04:36.897 --> 01:04:40.761
+<v AKSHAYA GANESAN .>today.
+The velocity at which AI is building,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6628-1
+01:04:40.761 --> 01:04:47.546
+<v AKSHAYA GANESAN .>we have a lot of code getting generated
+and the developer is able to produce a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6628-2
+01:04:47.546 --> 01:04:48.577
+<v AKSHAYA GANESAN .>lot of code.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6629-0
+01:04:49.457 --> 01:04:50.017
+<v AKSHAYA GANESAN .>But...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6665-0
+01:04:51.537 --> 01:04:57.520
+<v AKSHAYA GANESAN .>How does it fit into our existing systems
+which we are already having?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6665-1
+01:04:57.520 --> 01:05:03.418
+<v AKSHAYA GANESAN .>So this picture is an example of it.
+So AI generation happens faster.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6665-2
+01:05:03.418 --> 01:05:09.654
+<v AKSHAYA GANESAN .>We have the velocity, the volume,
+a lot of volume coming in here at great</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6665-3
+01:05:09.654 --> 01:05:10.497
+<v AKSHAYA GANESAN .>speed, but</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6678-0
+01:05:11.297 --> 01:05:17.970
+<v AKSHAYA GANESAN .>Here we have a few flaky tests.
+We have our legacy docs who still don't</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6678-1
+01:05:17.970 --> 01:05:18.897
+<v AKSHAYA GANESAN .>have much.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6710-0
+01:05:20.577 --> 01:05:26.231
+<v AKSHAYA GANESAN .>aspects there.
+The product AI capabilities are exploding,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6710-1
+01:05:26.231 --> 01:05:32.275
+<v AKSHAYA GANESAN .>but organizations are only seeing minimal
+productivity gains.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6710-2
+01:05:32.275 --> 01:05:39.977
+<v AKSHAYA GANESAN .>So this side you can see the capabilities
+are increasing to a vast extent, but</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6715-0
+01:05:40.497 --> 01:05:44.530
+<v AKSHAYA GANESAN .>Here,
+we are having only minimal productivity</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6715-1
+01:05:44.530 --> 01:05:45.057
+<v AKSHAYA GANESAN .>gains.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6719-0
+01:05:47.377 --> 01:05:49.097
+<v AKSHAYA GANESAN .>So, how do we fix this?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6738-0
+01:05:51.777 --> 01:05:57.880
+<v AKSHAYA GANESAN .>Right, so this only when we fix this,
+we can have a good deployment value.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6738-1
+01:05:57.880 --> 01:06:01.217
+<v AKSHAYA GANESAN .>Otherwise, there's no use of having this.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6759-0
+01:06:02.017 --> 01:06:07.857
+<v AKSHAYA GANESAN .>or improving this again and again.
+So this is where our work is going to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6759-1
+01:06:07.857 --> 01:06:11.057
+<v AKSHAYA GANESAN .>come in. So now one question I will ask.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6777-0
+01:06:13.337 --> 01:06:21.292
+<v AKSHAYA GANESAN .>How much of a time a software developer
+will spend on average in a day in writing</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6777-1
+01:06:21.292 --> 01:06:21.777
+<v AKSHAYA GANESAN .>code?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6793-0
+01:06:25.737 --> 01:06:30.886
+<v AKSHAYA GANESAN .>Let's take a day, one working day.
+How much time do you think a software</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6793-1
+01:06:30.886 --> 01:06:33.497
+<v AKSHAYA GANESAN .>developer will spend in writing code?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6798-0
+01:06:40.697 --> 01:06:44.937
+<v AKSHAYA GANESAN .>To us, OK, 30%, OK.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6800-0
+01:06:46.337 --> 01:06:47.617
+<v AKSHAYA GANESAN .>Two to three hours.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6801-0
+01:06:50.737 --> 01:06:51.617
+<v AKSHAYA GANESAN .>For us.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6825-0
+01:06:59.857 --> 01:07:04.991
+<v AKSHAYA GANESAN .>So this all of you are putting numbers
+considering a working day, right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6825-1
+01:07:04.991 --> 01:07:09.211
+<v AKSHAYA GANESAN .>Nine hours or our,
+I mean our official working hours or you</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6825-2
+01:07:09.211 --> 01:07:10.337
+<v AKSHAYA GANESAN .>are considering.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6827-0
+01:07:11.377 --> 01:07:12.497
+<v AKSHAYA GANESAN .>Twenty-four hours.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6838-0
+01:07:15.857 --> 01:07:18.507
+<v AKSHAYA GANESAN .>So,
+I hope this two hours is on a working</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6838-1
+01:07:18.507 --> 01:07:20.337
+<v AKSHAYA GANESAN .>hours based on working hours.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6841-0
+01:07:28.177 --> 01:07:29.457
+<v AKSHAYA GANESAN .>Yeah, so.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6864-0
+01:07:31.297 --> 01:07:36.319
+<v AKSHAYA GANESAN .>That's why I said on paper working hours,
+because when deadlines are approaching,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6864-1
+01:07:36.319 --> 01:07:39.137
+<v AKSHAYA GANESAN .>it's never the on paper working hours,
+right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6882-0
+01:07:47.777 --> 01:07:51.298
+<v AKSHAYA GANESAN .>Yeah, three to four hours of actual work.
+OK,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6882-1
+01:07:51.298 --> 01:07:56.657
+<v AKSHAYA GANESAN .>so what do you think the rest of the time
+the Software engineer does?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6887-0
+01:07:58.577 --> 01:08:01.137
+<v AKSHAYA GANESAN .>apart from writing code or</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6914-0
+01:08:07.017 --> 01:08:11.511
+<v AKSHAYA GANESAN .>So when I say debugging,
+that's also writing code only.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6914-1
+01:08:11.511 --> 01:08:17.691
+<v AKSHAYA GANESAN .>So you are fixing the errors in the code.
+That's something we can take it as</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6914-2
+01:08:17.691 --> 01:08:19.297
+<v AKSHAYA GANESAN .>writing code itself.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6932-0
+01:08:20.817 --> 01:08:23.714
+<v AKSHAYA GANESAN .>Core feature work, I, I,
+instead of coding,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6932-1
+01:08:23.714 --> 01:08:28.784
+<v AKSHAYA GANESAN .>and I will put it like core feature work,
+you actually do coding, debugging,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6932-2
+01:08:28.784 --> 01:08:29.377
+<v AKSHAYA GANESAN .>etcetera.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6933-0
+01:08:31.657 --> 01:08:32.097
+<v AKSHAYA GANESAN .>Eight.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6935-0
+01:08:34.737 --> 01:08:35.857
+<v AKSHAYA GANESAN .>Unit testing.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6948-0
+01:08:37.297 --> 01:08:44.546
+<v AKSHAYA GANESAN .>Right, Scrum ceremonies, collaboration,
+analysis, analysis, testing,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6948-1
+01:08:44.546 --> 01:08:46.017
+<v AKSHAYA GANESAN .>documentation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6951-0
+01:08:46.937 --> 01:08:48.337
+<v AKSHAYA GANESAN .>Planning meeting.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6956-0
+01:08:49.617 --> 01:08:51.777
+<v AKSHAYA GANESAN .>Internal QA troubleshooting.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6958-0
+01:08:52.897 --> 01:08:53.937
+<v AKSHAYA GANESAN .>Development.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6997-0
+01:08:59.057 --> 01:09:07.279
+<v AKSHAYA GANESAN .>Yes, peer review of core, of course, yes.
+So that's a 40-60 split is what they are</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6997-1
+01:09:07.279 --> 01:09:14.313
+<v AKSHAYA GANESAN .>generally referring to. So 40%,
+most developers typically spend around</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/6997-2
+01:09:14.313 --> 01:09:18.177
+<v AKSHAYA GANESAN .>40% of their time on core feature work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7020-0
+01:09:19.417 --> 01:09:23.739
+<v AKSHAYA GANESAN .>Which includes coding, debugging,
+et cetera,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7020-1
+01:09:23.739 --> 01:09:31.616
+<v AKSHAYA GANESAN .>and while remaining 60% is consumed for a
+collection of non-coding activities and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7020-2
+01:09:31.616 --> 01:09:32.577
+<v AKSHAYA GANESAN .>cognitive.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7028-0
+01:09:34.417 --> 01:09:39.252
+<v AKSHAYA GANESAN .>understanding and drain.
+So when I say non-coding activity,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7028-1
+01:09:39.252 --> 01:09:39.897
+<v AKSHAYA GANESAN .>the 60%.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7063-0
+01:09:41.377 --> 01:09:47.773
+<v AKSHAYA GANESAN .>They spend a significant portion of the
+day learning, gathering knowledge,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7063-1
+01:09:47.773 --> 01:09:52.379
+<v AKSHAYA GANESAN .>searching for outdated information on
+documentations,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7063-2
+01:09:52.379 --> 01:09:59.287
+<v AKSHAYA GANESAN .>trying to understand a legacy system or
+microservices function which is running,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7063-3
+01:09:59.287 --> 01:10:00.737
+<v AKSHAYA GANESAN .>how it's working.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7111-0
+01:10:03.057 --> 01:10:06.622
+<v AKSHAYA GANESAN .>And context switching,
+even in context switching,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7111-1
+01:10:06.622 --> 01:10:11.543
+<v AKSHAYA GANESAN .>frequent interruptions that we have a
+meeting, we have a scrum call,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7111-2
+01:10:11.543 --> 01:10:15.322
+<v AKSHAYA GANESAN .>we are shifting,
+some other PR has a priority today.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7111-3
+01:10:15.322 --> 01:10:19.957
+<v AKSHAYA GANESAN .>So we need to jump between different
+tools, tasks, and meetings.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7111-4
+01:10:19.957 --> 01:10:22.097
+<v AKSHAYA GANESAN .>So that also creates a mental.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7124-0
+01:10:22.217 --> 01:10:26.504
+<v AKSHAYA GANESAN .>overhead that breaks the focus.
+So context switching itself,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7124-1
+01:10:26.504 --> 01:10:29.457
+<v AKSHAYA GANESAN .>they say some amount of time goes in that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7133-0
+01:10:30.577 --> 01:10:36.942
+<v AKSHAYA GANESAN .>waiting and coordination,
+waiting for pipelines to finish PR</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7133-1
+01:10:36.942 --> 01:10:37.777
+<v AKSHAYA GANESAN .>reviews.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7136-0
+01:10:38.977 --> 01:10:40.577
+<v AKSHAYA GANESAN .>General fiction.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7144-0
+01:10:42.417 --> 01:10:46.513
+<v AKSHAYA GANESAN .>Generally,
+the friction with other teams and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7144-1
+01:10:46.513 --> 01:10:47.697
+<v AKSHAYA GANESAN .>dependencies.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7151-0
+01:10:49.297 --> 01:10:53.377
+<v AKSHAYA GANESAN .>coordinating with them,
+conveying requirements, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7192-0
+01:10:54.977 --> 01:11:00.665
+<v AKSHAYA GANESAN .>And a massive amount of time is spent
+simply trying to understand and pull the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7192-1
+01:11:00.665 --> 01:11:05.561
+<v AKSHAYA GANESAN .>mental model of the entire software
+architecture or the distributed</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7192-2
+01:11:05.561 --> 01:11:10.313
+<v AKSHAYA GANESAN .>architecture before the code.
+So you try to understand and have a</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7192-3
+01:11:10.313 --> 01:11:13.697
+<v AKSHAYA GANESAN .>complete idea of your system before you
+start.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7204-0
+01:11:14.257 --> 01:11:18.669
+<v AKSHAYA GANESAN .>writing your code, right?
+So the managing the complexity and the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7204-1
+01:11:18.669 --> 01:11:20.977
+<v AKSHAYA GANESAN .>cognitive load, that's one aspect.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7237-0
+01:11:22.257 --> 01:11:26.382
+<v AKSHAYA GANESAN .>And of course,
+our regular administrative tasks is where</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7237-1
+01:11:26.382 --> 01:11:30.870
+<v AKSHAYA GANESAN .>you spend, like updating Jira tickets,
+manual status updates,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7237-2
+01:11:30.870 --> 01:11:34.055
+<v AKSHAYA GANESAN .>or various synchronous meetings you
+attend,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7237-3
+01:11:34.055 --> 01:11:37.457
+<v AKSHAYA GANESAN .>all those administrative tasks and
+ceremonies.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7250-0
+01:11:38.257 --> 01:11:43.202
+<v AKSHAYA GANESAN .>And a small amount of time is also goes
+in configuration errors,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7250-1
+01:11:43.202 --> 01:11:48.377
+<v AKSHAYA GANESAN .>setting up the configuration,
+complex deployment processes, et cec.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7267-0
+01:11:50.457 --> 01:11:57.937
+<v AKSHAYA GANESAN .>So now all the tasks I listed, right?
+That 60%, we don't have many.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7298-0
+01:11:59.057 --> 01:12:05.165
+<v AKSHAYA GANESAN .>AI tools to do that because there is so
+much of context. It's our individual.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7298-1
+01:12:05.165 --> 01:12:10.961
+<v AKSHAYA GANESAN .>I only if I build a clone of myself and
+keep it that 60% can be replaced.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7298-2
+01:12:10.961 --> 01:12:13.937
+<v AKSHAYA GANESAN .>So majority of the 40% is what we can.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7314-0
+01:12:18.097 --> 01:12:25.938
+<v AKSHAYA GANESAN .>Organizations at this point in time are
+only using AI to speed up that 40% of the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7314-1
+01:12:25.938 --> 01:12:26.417
+<v AKSHAYA GANESAN .>work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7357-0
+01:12:27.297 --> 01:12:32.596
+<v AKSHAYA GANESAN .>So, 60% of the time,
+when the real friction is something which</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7357-1
+01:12:32.596 --> 01:12:36.886
+<v AKSHAYA GANESAN .>we can look,
+which we are still not looked at much</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7357-2
+01:12:36.886 --> 01:12:41.429
+<v AKSHAYA GANESAN .>from an aspect. So,
+this I'm talking in terms of only</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7357-3
+01:12:41.429 --> 01:12:45.298
+<v AKSHAYA GANESAN .>developer,
+so one of you maybe who are not in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7357-4
+01:12:45.298 --> 01:12:46.897
+<v AKSHAYA GANESAN .>development, but...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7382-0
+01:12:46.977 --> 01:12:53.804
+<v AKSHAYA GANESAN .>on QA or on the DevOps side or etc.
+You can even list down the other set of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7382-1
+01:12:53.804 --> 01:12:58.565
+<v AKSHAYA GANESAN .>activities you do apart from your core
+feature work.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7382-2
+01:12:58.565 --> 01:13:03.417
+<v AKSHAYA GANESAN .>And you can say how much of that AI can
+replace, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7383-0
+01:13:05.257 --> 01:13:05.777
+<v AKSHAYA GANESAN .>Right.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7384-0
+01:13:06.857 --> 01:13:07.217
+<v AKSHAYA GANESAN .>So.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7401-0
+01:13:08.337 --> 01:13:12.745
+<v AKSHAYA GANESAN .>So still there is a lot we can explore
+the other aspects,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7401-1
+01:13:12.745 --> 01:13:16.697
+<v AKSHAYA GANESAN .>the organizations of the software
+engineering as a.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7418-0
+01:13:19.297 --> 01:13:25.502
+<v AKSHAYA GANESAN .>community and as a process itself,
+they can look at greatest opportunity for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7418-1
+01:13:25.502 --> 01:13:29.934
+<v AKSHAYA GANESAN .>improvement,
+reducing the other aspects of that 60% as</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7418-2
+01:13:29.934 --> 01:13:30.337
+<v AKSHAYA GANESAN .>well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7425-0
+01:13:33.057 --> 01:13:36.497
+<v AKSHAYA GANESAN .>Okay, so I think I have...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7462-0
+01:13:39.257 --> 01:13:43.032
+<v AKSHAYA GANESAN .>I mean,
+these are the major things I wanted to</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7462-1
+01:13:43.032 --> 01:13:47.450
+<v AKSHAYA GANESAN .>cover today.
+So this is what we will go into our next,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7462-2
+01:13:47.450 --> 01:13:53.394
+<v AKSHAYA GANESAN .>from our next classes probably.
+So the traditional development cycle goes</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7462-3
+01:13:53.394 --> 01:13:59.017
+<v AKSHAYA GANESAN .>into planning, design, development,
+testing, deployment, maintenance.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7499-0
+01:13:59.817 --> 01:14:05.425
+<v AKSHAYA GANESAN .>with human across every stage.
+So the AI is going to augment each of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7499-1
+01:14:05.425 --> 01:14:09.895
+<v AKSHAYA GANESAN .>these faces.
+And we are also going to look at how this</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7499-2
+01:14:09.895 --> 01:14:15.015
+<v AKSHAYA GANESAN .>can be more autonomous in nature.
+What are the risks involved?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7499-3
+01:14:15.015 --> 01:14:20.217
+<v AKSHAYA GANESAN .>Can be completely automated or it's only
+going to be augmented?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7500-0
+01:14:21.057 --> 01:14:21.537
+<v AKSHAYA GANESAN .>Um...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7507-0
+01:14:23.297 --> 01:14:26.337
+<v AKSHAYA GANESAN .>So these are some things we are going to
+look at.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7509-0
+01:14:29.297 --> 01:14:30.897
+<v AKSHAYA GANESAN .>So, these two...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7516-0
+01:14:31.857 --> 01:14:35.777
+<v AKSHAYA GANESAN .>are the major questions which we are
+going to answer.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7519-0
+01:14:37.217 --> 01:14:39.057
+<v AKSHAYA GANESAN .>In this particular course.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7540-0
+01:14:40.897 --> 01:14:46.853
+<v AKSHAYA GANESAN .>For all the benefits AI is bringing in,
+it is introducing new constraints on the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7540-1
+01:14:46.853 --> 01:14:50.897
+<v AKSHAYA GANESAN .>technical, organizational,
+as well as cultural levels.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7568-0
+01:14:51.777 --> 01:14:58.913
+<v AKSHAYA GANESAN .>So how AI is reshaping every stage and
+how to adapt for AI driven delivery at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7568-1
+01:14:58.913 --> 01:15:06.233
+<v AKSHAYA GANESAN .>every phase is what these are the two
+questions we are going to find answers in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7568-2
+01:15:06.233 --> 01:15:07.697
+<v AKSHAYA GANESAN .>this particular.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7569-0
+01:15:08.777 --> 01:15:09.297
+<v AKSHAYA GANESAN .>Course.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7572-0
+01:15:10.577 --> 01:15:12.577
+<v AKSHAYA GANESAN .>OK, so with that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7586-0
+01:15:13.617 --> 01:15:19.906
+<v AKSHAYA GANESAN .>I present the course description.
+This is as part this is as approved by</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7586-1
+01:15:19.906 --> 01:15:23.697
+<v AKSHAYA GANESAN .>the university,
+plus you have this in your.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7598-0
+01:15:27.217 --> 01:15:32.097
+<v AKSHAYA GANESAN .>post handout which has been uploaded to
+the post page as well. So we will...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7638-0
+01:15:33.897 --> 01:15:37.720
+<v AKSHAYA GANESAN .>look at evolution of SDNC.
+Basically in one line,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7638-1
+01:15:37.720 --> 01:15:43.531
+<v AKSHAYA GANESAN .>if you ask me what this course is about,
+how do we deliver software with AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7638-2
+01:15:43.531 --> 01:15:48.348
+<v AKSHAYA GANESAN .>acceleration under AI acceleration?
+So that's the description.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7638-3
+01:15:48.348 --> 01:15:53.012
+<v AKSHAYA GANESAN .>So how do we approach it?
+We are approaching it in a modular</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7638-4
+01:15:53.012 --> 01:15:53.777
+<v AKSHAYA GANESAN .>structure.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7676-0
+01:15:54.337 --> 01:15:59.788
+<v AKSHAYA GANESAN .>So we start looking at what are the
+existing SDLC models,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7676-1
+01:15:59.788 --> 01:16:05.615
+<v AKSHAYA GANESAN .>how they have evolved,
+how AI is bringing in and changing the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7676-2
+01:16:05.615 --> 01:16:10.596
+<v AKSHAYA GANESAN .>aspects of them.
+So what are the risks it brings in,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7676-3
+01:16:10.596 --> 01:16:15.577
+<v AKSHAYA GANESAN .>what the impact AI brings into each of
+these phases.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7715-0
+01:16:16.017 --> 01:16:22.283
+<v AKSHAYA GANESAN .>What are the interaction patterns?
+How do we interact with AI at every phase?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7715-1
+01:16:22.283 --> 01:16:25.898
+<v AKSHAYA GANESAN .>What are the quality gates we have to
+build?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7715-2
+01:16:25.898 --> 01:16:32.004
+<v AKSHAYA GANESAN .>What are the validation strategies we
+have to build at every step in the AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7715-3
+01:16:32.004 --> 01:16:35.137
+<v AKSHAYA GANESAN .>driven life cycle? Where should we have</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7752-0
+01:16:35.297 --> 01:16:38.669
+<v AKSHAYA GANESAN .>human.
+We cannot have human in the loop decision</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7752-1
+01:16:38.669 --> 01:16:42.660
+<v AKSHAYA GANESAN .>points everywhere.
+Then there's no point in improving the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7752-2
+01:16:42.660 --> 01:16:46.789
+<v AKSHAYA GANESAN .>time with AI, right?
+So where should we have a human in the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7752-3
+01:16:46.789 --> 01:16:51.125
+<v AKSHAYA GANESAN .>loop decision points where we can go for
+a computational tool,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7752-4
+01:16:51.125 --> 01:16:54.497
+<v AKSHAYA GANESAN .>where we go for an inferential tool?
+How do you?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7795-0
+01:16:54.977 --> 01:16:59.430
+<v AKSHAYA GANESAN .>The moment you click the prompt and the
+output comes,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7795-1
+01:16:59.430 --> 01:17:03.471
+<v AKSHAYA GANESAN .>the code is not AI code anymore,
+it's your code.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7795-2
+01:17:03.471 --> 01:17:09.161
+<v AKSHAYA GANESAN .>So we are accountable for it.
+Though it comes out of an LLM or an AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7795-3
+01:17:09.161 --> 01:17:13.697
+<v AKSHAYA GANESAN .>coding agent, the moment it comes out,
+it is our code.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7796-0
+01:17:13.817 --> 01:17:14.257
+<v AKSHAYA GANESAN .>KOHAD.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7809-0
+01:17:15.057 --> 01:17:21.233
+<v AKSHAYA GANESAN .>So how do you take accountability,
+ownership in this continuously changing</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7809-1
+01:17:21.233 --> 01:17:23.457
+<v AKSHAYA GANESAN .>systems? How we can feed...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7854-0
+01:17:24.337 --> 01:17:29.775
+<v AKSHAYA GANESAN .>forward as well as how the feedback loops
+can come in from different reporting</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7854-1
+01:17:29.775 --> 01:17:33.698
+<v AKSHAYA GANESAN .>tools to ensure that the same error
+doesn't occur again.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7854-2
+01:17:33.698 --> 01:17:39.068
+<v AKSHAYA GANESAN .>And metrics wise also we cannot keep
+looking at the same metrics which are no</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7854-3
+01:17:39.068 --> 01:17:44.506
+<v AKSHAYA GANESAN .>more applicable to us in certain ways.
+So we have to identify what are the new</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7854-4
+01:17:44.506 --> 01:17:45.057
+<v AKSHAYA GANESAN .>metrics.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7905-0
+01:17:46.097 --> 01:17:49.488
+<v AKSHAYA GANESAN .>We have to look at reliability,
+not just speed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7905-1
+01:17:49.488 --> 01:17:54.998
+<v AKSHAYA GANESAN .>Earlier time to market was one of the
+major concerns, but now time to market,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7905-2
+01:17:54.998 --> 01:18:00.155
+<v AKSHAYA GANESAN .>because code is getting generated faster,
+time to market can be reduced,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7905-3
+01:18:00.155 --> 01:18:05.382
+<v AKSHAYA GANESAN .>can be reduced to a larger extent,
+but are we shipping reliable products,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7905-4
+01:18:05.382 --> 01:18:10.257
+<v AKSHAYA GANESAN .>stabilized products is what we have to
+also look at. So that's what.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7910-0
+01:18:10.337 --> 01:18:14.097
+<v AKSHAYA GANESAN .>Is a rough description on the objective
+wise?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7926-0
+01:18:15.777 --> 01:18:19.272
+<v AKSHAYA GANESAN .>So the same thing which is written in
+terms of the objectives,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7926-1
+01:18:19.272 --> 01:18:22.657
+<v AKSHAYA GANESAN .>understand the evolution of Software
+Development Life Cycle.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7959-0
+01:18:24.577 --> 01:18:29.456
+<v AKSHAYA GANESAN .>Development an understanding of AI
+fundamentals,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7959-1
+01:18:29.456 --> 01:18:35.630
+<v AKSHAYA GANESAN .>explore practical applications of AI
+tools across all phases,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7959-2
+01:18:35.630 --> 01:18:43.497
+<v AKSHAYA GANESAN .>and understand the need and learn to
+define governance mechanisms, strategies,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7961-0
+01:18:43.657 --> 01:18:45.617
+<v AKSHAYA GANESAN .>decision points, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7966-0
+01:18:49.057 --> 01:18:50.897
+<v AKSHAYA GANESAN .>I'll take a quick break here.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7970-0
+01:18:53.057 --> 01:18:55.057
+<v AKSHAYA GANESAN .>So a five-minute break.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7992-0
+01:18:57.697 --> 01:19:00.737
+<v AKSHAYA GANESAN .>We come back and look at the modular
+structure,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7992-1
+01:19:00.737 --> 01:19:05.613
+<v AKSHAYA GANESAN .>and I'll talk about the evaluation
+components and a few operational aspects,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/7992-2
+01:19:05.613 --> 01:19:06.817
+<v AKSHAYA GANESAN .>and then we will...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8009-0
+01:19:08.337 --> 01:19:12.408
+<v AKSHAYA GANESAN .>Take up all questions and answers,
+we can have some discussion time,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8009-1
+01:19:12.408 --> 01:19:16.657
+<v AKSHAYA GANESAN .>and we'll close for today. OK, yeah,
+I'll talk about the books as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8025-0
+01:19:19.217 --> 01:19:22.683
+<v AKSHAYA GANESAN .>Let's take a very quick break for 10
+minutes. So at 7.10,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8025-1
+01:19:22.683 --> 01:19:24.177
+<v AKSHAYA GANESAN .>so we'll be back by 7.15.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8096-0
+01:25:48.177 --> 01:25:49.537
+<v AKSHAYA GANESAN .>OK, so.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8098-0
+01:25:51.137 --> 01:25:52.497
+<v AKSHAYA GANESAN .>Let's continue.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8135-0
+01:26:04.177 --> 01:26:10.431
+<v AKSHAYA GANESAN .>So the entire course is divided into 8
+modules. So that's what you see.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8135-1
+01:26:10.431 --> 01:26:16.512
+<v AKSHAYA GANESAN .>The detailed modular structure is given
+to you in the course handout,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8135-2
+01:26:16.512 --> 01:26:22.766
+<v AKSHAYA GANESAN .>which is there in the course page.
+So the first modules talks about the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8135-3
+01:26:22.766 --> 01:26:24.417
+<v AKSHAYA GANESAN .>foundations and the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8170-0
+01:26:24.977 --> 01:26:29.949
+<v AKSHAYA GANESAN .>shift basically.
+So we look at evolution of different SDLC</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8170-1
+01:26:29.949 --> 01:26:36.945
+<v AKSHAYA GANESAN .>models from waterfall agile to continuous
+AI augmentation and different phases and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8170-2
+01:26:36.945 --> 01:26:42.171
+<v AKSHAYA GANESAN .>what are the risks it brings in.
+That is the change velocity,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8170-3
+01:26:42.171 --> 01:26:43.857
+<v AKSHAYA GANESAN .>the technical depth.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8196-0
+01:26:43.937 --> 01:26:47.885
+<v AKSHAYA GANESAN .>hallucination risks, architectural drift,
+etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8196-1
+01:26:47.885 --> 01:26:52.001
+<v AKSHAYA GANESAN .>And we'll also look at the economics part
+of it,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8196-2
+01:26:52.001 --> 01:26:57.377
+<v AKSHAYA GANESAN .>the cost and economics of AI augmentation,
+token problems, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8234-0
+01:26:59.777 --> 01:27:05.530
+<v AKSHAYA GANESAN .>Second module is SAURAV.
+It's a little deviating from our flow.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8234-1
+01:27:05.530 --> 01:27:11.374
+<v AKSHAYA GANESAN .>It is some basic understanding of AI we
+need to use these tools.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8234-2
+01:27:11.374 --> 01:27:18.297
+<v AKSHAYA GANESAN .>We will not get into too much technical,
+but some basic understanding of AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8265-0
+01:27:18.777 --> 01:27:24.816
+<v AKSHAYA GANESAN .>What is a foundation model? What is today?
+What is a transformer?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8265-1
+01:27:24.816 --> 01:27:31.314
+<v AKSHAYA GANESAN .>What is a large language model?
+What do I mean by tokenization tokens?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8265-2
+01:27:31.314 --> 01:27:37.537
+<v AKSHAYA GANESAN .>What is context engineering or context
+window? How do we manage AI?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8281-0
+01:27:38.177 --> 01:27:41.566
+<v AKSHAYA GANESAN .>deterministic,
+non-deterministic output and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8281-1
+01:27:41.566 --> 01:27:46.497
+<v AKSHAYA GANESAN .>deterministic software systems and some
+prompt strategies also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8311-0
+01:27:48.097 --> 01:27:53.245
+<v AKSHAYA GANESAN .>And a little bit of introduction to agent
+workflows.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8311-1
+01:27:53.245 --> 01:27:59.851
+<v AKSHAYA GANESAN .>So the second module is all AI knowledge
+we need to use it in SDLC.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8311-2
+01:27:59.851 --> 01:28:04.417
+<v AKSHAYA GANESAN .>That is what we will have a fundamental
+model.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8352-0
+01:28:05.297 --> 01:28:10.483
+<v AKSHAYA GANESAN .>So there we will, there will be more,
+mostly I will try to cover overview</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8352-1
+01:28:10.483 --> 01:28:14.477
+<v AKSHAYA GANESAN .>without getting into the math and the
+technical aspects,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8352-2
+01:28:14.477 --> 01:28:20.294
+<v AKSHAYA GANESAN .>which is required to create those models,
+but just from an end user perspective of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8352-3
+01:28:20.294 --> 01:28:22.817
+<v AKSHAYA GANESAN .>how do we use all these models, etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8360-0
+01:28:23.857 --> 01:28:30.977
+<v AKSHAYA GANESAN .>A little bit on MCP also we will cover,
+but not into technical detail.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-0
+01:28:33.257 --> 01:28:37.205
+<v AKSHAYA GANESAN .>So from third module,
+we will start with each phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-1
+01:28:37.205 --> 01:28:40.707
+<v AKSHAYA GANESAN .>So third module is on requirements and
+design.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-2
+01:28:40.707 --> 01:28:44.433
+<v AKSHAYA GANESAN .>So we will start with the requirements
+gathering,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-3
+01:28:44.433 --> 01:28:48.158
+<v AKSHAYA GANESAN .>the risk involved in bringing in AI,
+where do we,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-4
+01:28:48.158 --> 01:28:53.523
+<v AKSHAYA GANESAN .>where can we build the guard rails?
+Then we will look at design. Again,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8409-5
+01:28:53.523 --> 01:28:54.417
+<v AKSHAYA GANESAN .>how do we...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8448-0
+01:28:55.017 --> 01:29:01.533
+<v AKSHAYA GANESAN .>approach spec driven development.
+How do we design and then generate</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8448-1
+01:29:01.533 --> 01:29:06.915
+<v AKSHAYA GANESAN .>architectural decision records?
+And how do we prototype?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8448-2
+01:29:06.915 --> 01:29:14.470
+<v AKSHAYA GANESAN .>How do we use AI to generate prototypes?
+And a little bit on threat modeling as</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8448-3
+01:29:14.470 --> 01:29:16.737
+<v AKSHAYA GANESAN .>well to ensure security.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8450-0
+01:29:17.457 --> 01:29:19.577
+<v AKSHAYA GANESAN .>For our design, etcetera.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8490-0
+01:29:21.617 --> 01:29:25.603
+<v AKSHAYA GANESAN .>So that will be requirements and design
+phase.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8490-1
+01:29:25.603 --> 01:29:32.133
+<v AKSHAYA GANESAN .>Then the coding and refractoring phase.
+So we will look at popular patterns,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8490-2
+01:29:32.133 --> 01:29:35.949
+<v AKSHAYA GANESAN .>autonomous coding agents,
+how they are used,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8490-3
+01:29:35.949 --> 01:29:41.377
+<v AKSHAYA GANESAN .>how coding agents are used in code
+refractoring, and how we can</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8513-0
+01:29:42.017 --> 01:29:50.222
+<v AKSHAYA GANESAN .>Detect problems, bugs, code smells,
+how legacy migration or legacy code can</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8513-1
+01:29:50.222 --> 01:29:55.297
+<v AKSHAYA GANESAN .>be migrated,
+and versioning and documentation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8528-0
+01:29:56.377 --> 01:30:01.991
+<v AKSHAYA GANESAN .>The first module will be on testing.
+So how do you generate test for your code</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8528-1
+01:30:01.991 --> 01:30:04.337
+<v AKSHAYA GANESAN .>which has been already available?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8538-0
+01:30:05.377 --> 01:30:10.740
+<v AKSHAYA GANESAN .>How do you do automatic code reviews?
+There are a few problems,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8538-1
+01:30:10.740 --> 01:30:12.417
+<v AKSHAYA GANESAN .>circular validation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8541-0
+01:30:13.617 --> 01:30:15.297
+<v AKSHAYA GANESAN .>And then there are.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8548-0
+01:30:17.697 --> 01:30:20.097
+<v AKSHAYA GANESAN .>certain human checkpoints we would need.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8553-0
+01:30:21.177 --> 01:30:23.777
+<v AKSHAYA GANESAN .>So we look at all those in module 5.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8560-0
+01:30:25.217 --> 01:30:28.737
+<v AKSHAYA GANESAN .>Module 6 will be on the deployment
+release.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8564-0
+01:30:30.337 --> 01:30:33.297
+<v AKSHAYA GANESAN .>A part, so we will see how.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8577-0
+01:30:34.257 --> 01:30:41.221
+<v AKSHAYA GANESAN .>the infrastructure as a code or other
+codes can be generated using AI.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8577-1
+01:30:41.221 --> 01:30:42.497
+<v AKSHAYA GANESAN .>How we can...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8588-0
+01:30:44.017 --> 01:30:47.937
+<v AKSHAYA GANESAN .>Automate the release management process,
+the deployment strategies.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8597-0
+01:30:49.257 --> 01:30:54.537
+<v AKSHAYA GANESAN .>What are the options we are available? So,
+as I mentioned earlier, that's a little...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8601-0
+01:30:56.137 --> 01:30:58.017
+<v AKSHAYA GANESAN .>very less explored area.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8618-0
+01:31:00.977 --> 01:31:06.128
+<v AKSHAYA GANESAN .>Though there are the coding part and the
+documentation part, which are still used,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8618-1
+01:31:06.128 --> 01:31:08.177
+<v AKSHAYA GANESAN .>we have to look at ways in which.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8623-0
+01:31:11.297 --> 01:31:13.217
+<v AKSHAYA GANESAN .>AI can be leveraged there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8628-0
+01:31:14.577 --> 01:31:17.297
+<v AKSHAYA GANESAN .>And Module 7 will talk about.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8630-0
+01:31:18.497 --> 01:31:19.537
+<v AKSHAYA GANESAN .>governance.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8644-0
+01:31:21.297 --> 01:31:27.645
+<v AKSHAYA GANESAN .>the control points, the ownership,
+we'll also look at a few compliance</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8644-1
+01:31:27.645 --> 01:31:28.897
+<v AKSHAYA GANESAN .>aspects there.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8653-0
+01:31:30.097 --> 01:31:36.177
+<v AKSHAYA GANESAN .>And Module 8 is how do you feedback into
+the system?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8685-0
+01:31:37.417 --> 01:31:42.534
+<v AKSHAYA GANESAN .>How do you use your data,
+the elementary data available at</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8685-1
+01:31:42.534 --> 01:31:47.304
+<v AKSHAYA GANESAN .>different aspects,
+and what are the metrics which will</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8685-2
+01:31:47.304 --> 01:31:54.417
+<v AKSHAYA GANESAN .>change from the traditional Dora metrics
+which I've been using to more developer?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8729-0
+01:31:56.497 --> 01:32:02.847
+<v AKSHAYA GANESAN .>related metrics or other newer metrics.
+And how do we manage the entire code base</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8729-1
+01:32:02.847 --> 01:32:07.494
+<v AKSHAYA GANESAN .>is what we will look at.
+So every module will follow a same</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8729-2
+01:32:07.494 --> 01:32:11.212
+<v AKSHAYA GANESAN .>pattern.
+We will look at the AI assistance plus</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8729-3
+01:32:11.212 --> 01:32:17.020
+<v AKSHAYA GANESAN .>the pros and cons, as I said earlier.
+And we will also have a considerable</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8729-4
+01:32:17.020 --> 01:32:18.337
+<v AKSHAYA GANESAN .>number of fans on</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8755-0
+01:32:18.457 --> 01:32:24.243
+<v AKSHAYA GANESAN .>course. We'll see how the lab sessions,
+maybe we'll schedule separate lab</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8755-1
+01:32:24.243 --> 01:32:30.185
+<v AKSHAYA GANESAN .>sessions or we will see how this can be
+blended with the class work itself.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8755-2
+01:32:30.185 --> 01:32:34.017
+<v AKSHAYA GANESAN .>A detailed plan I will give it to you
+very soon.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8757-0
+01:32:37.377 --> 01:32:38.497
+<v AKSHAYA GANESAN .>Coming to the...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8759-0
+01:32:39.857 --> 01:32:41.297
+<v AKSHAYA GANESAN .>Books to be followed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8788-0
+01:32:43.177 --> 01:32:52.257
+<v AKSHAYA GANESAN .>We don't have much MOOCs which cover all
+these topics at this point in time,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8788-1
+01:32:52.257 --> 01:33:02.046
+<v AKSHAYA GANESAN .>but I have given a few references which
+touch upon certain chapters of our course.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8788-2
+01:33:02.046 --> 01:33:03.697
+<v AKSHAYA GANESAN .>So we will use</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8789-0
+01:33:03.777 --> 01:33:04.497
+<v AKSHAYA GANESAN .>The.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8815-0
+01:33:05.777 --> 01:33:09.688
+<v AKSHAYA GANESAN .>Generative AI for Software Development
+book as a general,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8815-1
+01:33:09.688 --> 01:33:13.532
+<v AKSHAYA GANESAN .>because it has all the faces covered to a
+minimal level,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8815-2
+01:33:13.532 --> 01:33:17.377
+<v AKSHAYA GANESAN .>which is given in your course handout,
+the textbook one.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8859-0
+01:33:18.537 --> 01:33:22.748
+<v AKSHAYA GANESAN .>And AI engineering,
+building applications with foundation</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8859-1
+01:33:22.748 --> 01:33:28.121
+<v AKSHAYA GANESAN .>models, that understanding is required.
+So module 2 will refer to that AI</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8859-2
+01:33:28.121 --> 01:33:33.131
+<v AKSHAYA GANESAN .>engineering book by Chip Hoden.
+So all these names, book references,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8859-3
+01:33:33.131 --> 01:33:38.214
+<v AKSHAYA GANESAN .>details are given. But majorly,
+we will be referring to web resources</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8859-4
+01:33:38.214 --> 01:33:38.577
+<v AKSHAYA GANESAN .>only.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8881-0
+01:33:38.817 --> 01:33:44.945
+<v AKSHAYA GANESAN .>at this point in time.
+So we will majorly refer to many</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8881-1
+01:33:44.945 --> 01:33:50.089
+<v AKSHAYA GANESAN .>technology podcasts, Tech ThoughtWorks,
+Radar,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8881-2
+01:33:50.089 --> 01:33:58.297
+<v AKSHAYA GANESAN .>and there is a Software Engineering
+Institute of Cargie Mellon University.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8921-0
+01:33:58.897 --> 01:34:05.314
+<v AKSHAYA GANESAN .>So they have a AI Augmented Software
+Engineering to separate the research</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8921-1
+01:34:05.314 --> 01:34:11.211
+<v AKSHAYA GANESAN .>track. So we will look at some papers,
+some publications from them,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8921-2
+01:34:11.211 --> 01:34:18.062
+<v AKSHAYA GANESAN .>and we will also refer to many technology
+radar podcasts from ThoughtWorks and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8921-3
+01:34:18.062 --> 01:34:20.577
+<v AKSHAYA GANESAN .>major such organizations like</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-0
+01:34:21.377 --> 01:34:25.224
+<v AKSHAYA GANESAN .>Netflix and Uber.
+So all these organizations who are</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-1
+01:34:25.224 --> 01:34:29.216
+<v AKSHAYA GANESAN .>pioneer in using AI for their lives,
+SDLC life cycles,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-2
+01:34:29.216 --> 01:34:33.933
+<v AKSHAYA GANESAN .>they also have good engineering blogs,
+which they publish often.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-3
+01:34:33.933 --> 01:34:39.087
+<v AKSHAYA GANESAN .>So we will refer to those experts.
+And as and when there are new books</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-4
+01:34:39.087 --> 01:34:42.498
+<v AKSHAYA GANESAN .>coming in,
+we will be able to adopt from their</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8969-5
+01:34:42.498 --> 01:34:43.297
+<v AKSHAYA GANESAN .>experts. So</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8995-0
+01:34:44.017 --> 01:34:49.331
+<v AKSHAYA GANESAN .>Each of the end of the class,
+I will have a reference section which I</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8995-1
+01:34:49.331 --> 01:34:54.645
+<v AKSHAYA GANESAN .>will publish with the details of the web
+links and the details there,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8995-2
+01:34:54.645 --> 01:34:58.897
+<v AKSHAYA GANESAN .>which you can collectively use for all
+your references.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8994-0
+01:34:57.297 --> 01:34:57.697
+<v DIVYANSHI KESARWANI .>Active.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/8998-0
+01:35:02.417 --> 01:35:03.857
+<v AKSHAYA GANESAN .>So that song in books.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9011-0
+01:35:07.617 --> 01:35:12.657
+<v AKSHAYA GANESAN .>Coming to the last,
+but the most important one as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9014-0
+01:35:13.697 --> 01:35:15.457
+<v AKSHAYA GANESAN .>is the evaluation part.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9042-0
+01:35:16.577 --> 01:35:21.090
+<v AKSHAYA GANESAN .>So,
+all of you are new to the entire program,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9042-1
+01:35:21.090 --> 01:35:29.137
+<v AKSHAYA GANESAN .>so let me explain a little in detail. So,
+we have a continuous evaluation system.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9055-0
+01:35:30.417 --> 01:35:34.445
+<v AKSHAYA GANESAN .>So we have two examinations which will
+happen.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9055-1
+01:35:34.445 --> 01:35:37.617
+<v AKSHAYA GANESAN .>One is after the 8th contact session.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9094-0
+01:35:38.937 --> 01:35:45.604
+<v AKSHAYA GANESAN .>which is on the mid-semester.
+We call it as a mid-semester examination</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9094-1
+01:35:45.604 --> 01:35:52.836
+<v AKSHAYA GANESAN .>or EC2. EC2 means evaluation component 2.
+So that will happen after 8 weeks,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9094-2
+01:35:52.836 --> 01:35:58.377
+<v AKSHAYA GANESAN .>where you will go to a physical on-site
+centers and write.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9097-0
+01:35:58.817 --> 01:36:01.057
+<v AKSHAYA GANESAN .>of the examination for two hours.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9111-0
+01:36:03.297 --> 01:36:06.976
+<v AKSHAYA GANESAN .>So that is the mid-semester,
+which will be for 30 marks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9111-1
+01:36:06.976 --> 01:36:08.977
+<v AKSHAYA GANESAN .>It's a closed book examination.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9114-0
+01:36:10.577 --> 01:36:11.297
+<v AKSHAYA GANESAN .>And then...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9117-0
+01:36:10.577 --> 01:36:16.337
+<v SHEWALE PRACHI MAHADU .>Ohh, OK.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9118-0
+01:36:15.457 --> 01:36:18.017
+<v AKSHAYA GANESAN .>Request you want?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9122-0
+01:36:18.577 --> 01:36:19.377
+<v SHEWALE PRACHI MAHADU .>Why tonight?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9123-0
+01:36:20.657 --> 01:36:22.577
+<v AKSHAYA GANESAN .>Remote all parties.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9124-0
+01:36:23.497 --> 01:36:24.017
+<v SHEWALE PRACHI MAHADU .>Can we lib?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9164-0
+01:36:31.057 --> 01:36:36.477
+<v AKSHAYA GANESAN .>Then at the end of the course,
+after 16 contact sessions are over,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9164-1
+01:36:36.477 --> 01:36:41.979
+<v AKSHAYA GANESAN .>we will have the final comprehensive
+examination, which is for 40%.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9164-2
+01:36:41.979 --> 01:36:47.157
+<v AKSHAYA GANESAN .>That is an open book examination.
+That will be for 2 1/2 hours.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9164-3
+01:36:47.157 --> 01:36:48.937
+<v AKSHAYA GANESAN .>You will write in a...</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9178-0
+01:36:49.697 --> 01:36:55.328
+<v AKSHAYA GANESAN .>platform which the WILP division will
+brief you and orient you on the platform</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9178-1
+01:36:55.328 --> 01:36:56.897
+<v AKSHAYA GANESAN .>and other details etc.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9222-0
+01:36:58.417 --> 01:37:02.852
+<v AKSHAYA GANESAN .>So now this is 30 plus 40,
+70 marks will go in that.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9222-1
+01:37:02.852 --> 01:37:06.786
+<v AKSHAYA GANESAN .>And then you will have the remaining 30
+marks,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9222-2
+01:37:06.786 --> 01:37:13.231
+<v AKSHAYA GANESAN .>which is called as the EC1 components,
+which will happen throughout where we</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9222-3
+01:37:13.231 --> 01:37:19.257
+<v AKSHAYA GANESAN .>will do it in the course page,
+in your course page in the Takshida LMS.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-0
+01:37:19.857 --> 01:37:22.574
+<v AKSHAYA GANESAN .>which we are using.
+You have a course page,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-1
+01:37:22.574 --> 01:37:25.601
+<v AKSHAYA GANESAN .>you have the handout,
+all of you are part of it.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-2
+01:37:25.601 --> 01:37:29.369
+<v AKSHAYA GANESAN .>I can see many of you have already logged
+in and checked it,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-3
+01:37:29.369 --> 01:37:32.457
+<v AKSHAYA GANESAN .>but there are a few who might have not
+logged in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-4
+01:37:32.457 --> 01:37:35.236
+<v AKSHAYA GANESAN .>So you can also log in and check.
+So it has,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-5
+01:37:35.236 --> 01:37:39.931
+<v AKSHAYA GANESAN .>that is where we will be administering
+the quizzes, assignments, et cetera,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9270-6
+01:37:39.931 --> 01:37:41.537
+<v AKSHAYA GANESAN .>and all the PPT materials.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9301-0
+01:37:42.177 --> 01:37:49.167
+<v AKSHAYA GANESAN .>also will be posted there.
+So quiz one and two will be for 5% each.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9301-1
+01:37:49.167 --> 01:37:56.568
+<v AKSHAYA GANESAN .>So there will be MCQ questions,
+15 to 20 MCQ questions. You can log in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9301-2
+01:37:56.568 --> 01:38:02.017
+<v AKSHAYA GANESAN .>So the quiz will be open for, say,
+one week of time.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9345-0
+01:38:05.857 --> 01:38:12.003
+<v AKSHAYA GANESAN .>And then you can log in to the start the
+quiz. But once you start the quiz,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9345-1
+01:38:12.003 --> 01:38:16.855
+<v AKSHAYA GANESAN .>there will be a time limit around 30
+minutes or 20 minutes,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9345-2
+01:38:16.855 --> 01:38:20.495
+<v AKSHAYA GANESAN .>depending on the time.
+But in that one week,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9345-3
+01:38:20.495 --> 01:38:24.377
+<v AKSHAYA GANESAN .>you can take it any time you want.
+So the quiz.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9349-0
+01:38:24.657 --> 01:38:27.777
+<v AKSHAYA GANESAN .>will be there.
+It will be auto evaluated 5 marks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9399-0
+01:38:28.937 --> 01:38:34.147
+<v AKSHAYA GANESAN .>This one will be done before the mid sem,
+and quiz two will be done in the next</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9399-1
+01:38:34.147 --> 01:38:37.989
+<v AKSHAYA GANESAN .>half after the mid sem,
+then assignment one and two again.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9399-2
+01:38:37.989 --> 01:38:43.264
+<v AKSHAYA GANESAN .>Similarly, we will have one assignment.
+It will be a continuing assignment only,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9399-3
+01:38:43.264 --> 01:38:47.302
+<v AKSHAYA GANESAN .>because this course requires a full
+end-to-end understanding,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9399-4
+01:38:47.302 --> 01:38:49.777
+<v AKSHAYA GANESAN .>so it will be a continuing assignment.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9439-0
+01:38:50.017 --> 01:38:55.545
+<v AKSHAYA GANESAN .>But we will have the first phase of the
+assignment before the mid sem and we will</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9439-1
+01:38:55.545 --> 01:38:59.254
+<v AKSHAYA GANESAN .>do the next phase of the assignment after
+the mid sem.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9439-2
+01:38:59.254 --> 01:39:04.378
+<v AKSHAYA GANESAN .>So the assignment will be mostly coding
+in nature. That is not only coding.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9439-3
+01:39:04.378 --> 01:39:07.412
+<v AKSHAYA GANESAN .>We will do whatever we are talking in
+class.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9439-4
+01:39:07.412 --> 01:39:10.177
+<v AKSHAYA GANESAN .>We will do a complete end to end product.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9441-0
+01:39:11.857 --> 01:39:12.817
+<v AKSHAYA GANESAN .>Development.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9477-0
+01:39:14.257 --> 01:39:17.738
+<v AKSHAYA GANESAN .>deployment,
+we will see if it's possible with the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9477-1
+01:39:17.738 --> 01:39:22.472
+<v AKSHAYA GANESAN .>infrastructure we have, we will do it,
+otherwise we will skip that,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9477-2
+01:39:22.472 --> 01:39:25.814
+<v AKSHAYA GANESAN .>but we can deploy it in our local systems
+also.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9477-3
+01:39:25.814 --> 01:39:30.897
+<v AKSHAYA GANESAN .>But we will do an end-to-end lifecycle of
+a particular software product.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9484-0
+01:39:32.817 --> 01:39:36.977
+<v AKSHAYA GANESAN .>That's what we will do in this course for
+the assignment.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9528-0
+01:39:38.257 --> 01:39:42.177
+<v AKSHAYA GANESAN .>For the comprehensive exam,
+which is open book,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9528-1
+01:39:42.177 --> 01:39:46.505
+<v AKSHAYA GANESAN .>you are allowed to take the faculty
+provided slides.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9528-2
+01:39:46.505 --> 01:39:52.630
+<v AKSHAYA GANESAN .>But the faculty provided slides,
+you don't take printout now because there</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9528-3
+01:39:52.630 --> 01:39:57.857
+<v AKSHAYA GANESAN .>is a watermark team which the team will
+give you details about.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9539-0
+01:39:58.417 --> 01:40:03.241
+<v AKSHAYA GANESAN .>So it has to be watermarked and provided
+to you so you can take the print out in</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9539-1
+01:40:03.241 --> 01:40:03.777
+<v AKSHAYA GANESAN .>the last.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9573-0
+01:40:05.457 --> 01:40:10.983
+<v AKSHAYA GANESAN .>after your 11th or 12th sessions,
+once the dfdf is uploaded.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9573-1
+01:40:10.983 --> 01:40:16.328
+<v AKSHAYA GANESAN .>At this point of time,
+you use it for your preparation and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9573-2
+01:40:16.328 --> 01:40:21.401
+<v AKSHAYA GANESAN .>studying alone.
+Apart from the faculty provided slides,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9573-3
+01:40:21.401 --> 01:40:25.297
+<v AKSHAYA GANESAN .>they will also allow you to take the
+books</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9591-0
+01:40:27.217 --> 01:40:32.027
+<v AKSHAYA GANESAN .>But other than the books and the faculty
+provided slides,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9591-1
+01:40:32.027 --> 01:40:36.257
+<v AKSHAYA GANESAN .>there will not be any other AI generated
+notes or.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9607-0
+01:40:37.417 --> 01:40:41.506
+<v AKSHAYA GANESAN .>Question, answer,
+manual or solutions or any kind of other</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9607-1
+01:40:41.506 --> 01:40:44.417
+<v AKSHAYA GANESAN .>generated information will not be allowed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9624-0
+01:40:45.697 --> 01:40:51.721
+<v AKSHAYA GANESAN .>So I will try to make the slides as
+elaborate as possible so you can have all</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9624-1
+01:40:51.721 --> 01:40:54.657
+<v AKSHAYA GANESAN .>the information in the slides as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9649-0
+01:40:56.657 --> 01:41:02.714
+<v AKSHAYA GANESAN .>And all the class materials will be
+provided in the eLearn course page,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9649-1
+01:41:02.714 --> 01:41:09.697
+<v AKSHAYA GANESAN .>plus the Ms. TEAMS files folder as well,
+so you can use them for your preparation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9688-0
+01:41:14.737 --> 01:41:19.697
+<v AKSHAYA GANESAN .>And the coding, there is a coding,
+there is no coding language we are not</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9688-1
+01:41:19.697 --> 01:41:23.786
+<v AKSHAYA GANESAN .>going to restrict.
+There will be a problem statement defined</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9688-2
+01:41:23.786 --> 01:41:26.803
+<v AKSHAYA GANESAN .>for you,
+so you will do every phase for that</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9688-3
+01:41:26.803 --> 01:41:31.227
+<v AKSHAYA GANESAN .>particular problem statement.
+We will start with the requirements</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9688-4
+01:41:31.227 --> 01:41:31.697
+<v AKSHAYA GANESAN .>design.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9707-0
+01:41:32.737 --> 01:41:37.262
+<v AKSHAYA GANESAN .>coding, implementation, testing, etc.
+That's how it will go.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9707-1
+01:41:37.262 --> 01:41:41.937
+<v AKSHAYA GANESAN .>So you have to decide the coding language
+for your assignment.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9716-0
+01:41:45.977 --> 01:41:49.537
+<v AKSHAYA GANESAN .>For the mid sem, we will see,
+I will let you know.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9728-0
+01:41:50.977 --> 01:41:55.286
+<v AKSHAYA GANESAN .>Ideally,
+we should be covering till the coding and</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9728-1
+01:41:55.286 --> 01:41:56.977
+<v AKSHAYA GANESAN .>refracting module 4.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9746-0
+01:42:01.857 --> 01:42:07.227
+<v AKSHAYA GANESAN .>There will be one end assignment as a
+whole will be an end-to-end assignment,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9746-1
+01:42:07.227 --> 01:42:10.257
+<v AKSHAYA GANESAN .>but there will be two phases of
+evaluation.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9755-0
+01:42:16.097 --> 01:42:21.057
+<v AKSHAYA GANESAN .>So, but you can take it as assignment one,
+total one assignment, 20 marks.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9799-0
+01:42:24.737 --> 01:42:30.231
+<v AKSHAYA GANESAN .>Okay, so yes, there will be,
+there is a AI based tool which is used</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9799-1
+01:42:30.231 --> 01:42:35.403
+<v AKSHAYA GANESAN .>for question paper and assignment
+generation. But as there are,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9799-2
+01:42:35.403 --> 01:42:39.766
+<v AKSHAYA GANESAN .>though it is a tool,
+we still have human in the loop.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9799-3
+01:42:39.766 --> 01:42:44.857
+<v AKSHAYA GANESAN .>It's not automatic.
+So faculty members as well as instructors.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9828-0
+01:42:45.377 --> 01:42:51.125
+<v AKSHAYA GANESAN .>have an option to change what is suitable
+for the class so it's not completely</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9828-1
+01:42:51.125 --> 01:42:54.981
+<v AKSHAYA GANESAN .>automated.
+So we will take support of AI to do that,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9828-2
+01:42:54.981 --> 01:43:00.657
+<v AKSHAYA GANESAN .>but still it is a question paper and
+assignment prepared by the faculty only.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9834-0
+01:43:05.697 --> 01:43:08.857
+<v AKSHAYA GANESAN .>So group assignment or individual, I will.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9861-0
+01:43:10.337 --> 01:43:15.683
+<v AKSHAYA GANESAN .>I have to think about it.
+Group assignments have not worked very</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9861-1
+01:43:15.683 --> 01:43:22.428
+<v AKSHAYA GANESAN .>well in the past because of various time
+zones and geographical locations each of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9861-2
+01:43:22.428 --> 01:43:27.445
+<v AKSHAYA GANESAN .>you are available.
+So we will go with individual assignments</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9861-3
+01:43:27.445 --> 01:43:27.857
+<v AKSHAYA GANESAN .>only.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9869-0
+01:43:38.257 --> 01:43:41.057
+<v AKSHAYA GANESAN .>So that's majorly on the evaluation part.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9874-0
+01:43:46.657 --> 01:43:49.057
+<v AKSHAYA GANESAN .>More details I will give it to you later.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9881-0
+01:43:51.257 --> 01:43:54.177
+<v AKSHAYA GANESAN .>The book references are there in the
+course handout.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9890-0
+01:43:59.697 --> 01:44:04.177
+<v AKSHAYA GANESAN .>I will share the handout for those who
+have not.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9892-0
+01:44:08.017 --> 01:44:09.377
+<v AKSHAYA GANESAN .>Seen it in.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9901-0
+01:44:22.337 --> 01:44:25.137
+<v AKSHAYA GANESAN .>So this is the course handout that's
+there in your.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9903-0
+01:44:27.377 --> 01:44:28.337
+<v AKSHAYA GANESAN .>E-learn page.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9928-0
+01:44:29.297 --> 01:44:35.529
+<v AKSHAYA GANESAN .>So, you have the textbooks references.
+I'll keep adding references at the end of</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9928-1
+01:44:35.529 --> 01:44:39.915
+<v AKSHAYA GANESAN .>each slide also,
+but this is your complete reference for</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9928-2
+01:44:39.915 --> 01:44:41.377
+<v AKSHAYA GANESAN .>the list of topics.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9952-0
+01:44:42.497 --> 01:44:47.310
+<v AKSHAYA GANESAN .>A few information on the evaluation lab,
+etc. So,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9952-1
+01:44:47.310 --> 01:44:53.857
+<v AKSHAYA GANESAN .>this lab is what we will combine into an
+assignment evaluation, OK?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9957-0
+01:45:09.777 --> 01:45:10.337
+<v AKSHAYA GANESAN .>Yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9963-0
+01:45:11.537 --> 01:45:14.977
+<v AKSHAYA GANESAN .>I will upload this slide to the course
+page.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9973-0
+01:45:18.177 --> 01:45:21.857
+<v AKSHAYA GANESAN .>Yeah, textbook information,
+everything is there in the course and up</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/9973-1
+01:45:21.857 --> 01:45:22.177
+<v AKSHAYA GANESAN .>as we.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10001-0
+01:45:26.497 --> 01:45:30.589
+<v AKSHAYA GANESAN .>No, closed,
+you can use textbooks to prepare for the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10001-1
+01:45:30.589 --> 01:45:34.605
+<v AKSHAYA GANESAN .>examinations.
+Closed book in the sense you are not,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10001-2
+01:45:34.605 --> 01:45:37.617
+<v AKSHAYA GANESAN .>you cannot take the books for the exam.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10013-0
+01:45:38.817 --> 01:45:43.387
+<v AKSHAYA GANESAN .>So you can either refer the books or the
+slides for preparation wise.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10013-1
+01:45:43.387 --> 01:45:44.497
+<v AKSHAYA GANESAN .>That's up to you.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10040-0
+01:45:50.657 --> 01:45:54.657
+<v AKSHAYA GANESAN .>But we don't have a complete textbook
+which has all the contents.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10040-1
+01:45:54.657 --> 01:45:58.838
+<v AKSHAYA GANESAN .>So the flow is something which you have
+to stick to the slides only.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10040-2
+01:45:58.838 --> 01:46:02.354
+<v AKSHAYA GANESAN .>But content-wise,
+you can explore many other resources as</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10040-3
+01:46:02.354 --> 01:46:02.657
+<v AKSHAYA GANESAN .>well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10048-0
+01:46:18.337 --> 01:46:21.137
+<v AKSHAYA GANESAN .>Okay, so any other questions?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10061-0
+01:46:22.817 --> 01:46:27.057
+<v AKSHAYA GANESAN .>If there are no other questions,
+then I would like to wind up for today.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10072-0
+01:46:28.297 --> 01:46:32.225
+<v AKSHAYA GANESAN .>Thank you all for joining.
+So from next class,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10072-1
+01:46:32.225 --> 01:46:34.817
+<v AKSHAYA GANESAN .>we will start with each module.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10074-0
+01:46:37.297 --> 01:46:37.337
+<v AKSHAYA GANESAN .>E.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10081-0
+01:46:40.817 --> 01:46:44.417
+<v AKSHAYA GANESAN .>I didn't understand the Krishna's
+question.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10085-0
+01:46:46.337 --> 01:46:47.777
+<v AKSHAYA GANESAN .>Closed book meals.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10128-0
+01:46:47.857 --> 01:46:54.154
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>I mean, you can hear my voice now.
+So my intention of asking is closed book</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10095-0
+01:46:50.257 --> 01:46:51.057
+<v AKSHAYA GANESAN .>Yeah, yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10128-1
+01:46:54.154 --> 01:47:00.368
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>system and open book system means like
+open and I mean for EC3 evaluation,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10128-2
+01:47:00.368 --> 01:47:06.417
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>we can take the slides for the exam
+center and we can use the reference.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10121-0
+01:47:03.857 --> 01:47:04.097
+<v AKSHAYA GANESAN .>Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10153-0
+01:47:06.537 --> 01:47:09.611
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>for the solution of the problem statement,
+right?</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10153-1
+01:47:09.611 --> 01:47:14.099
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>So but for EC2 slides which we are
+discussing in the class that we can't</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10153-2
+01:47:14.099 --> 01:47:16.497
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>take it, right? That's what I'm asking.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10192-0
+01:47:16.497 --> 01:47:19.950
+<v AKSHAYA GANESAN .>Yes, for EC2, no materials can be taken.
+It will be a,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10192-1
+01:47:19.950 --> 01:47:24.596
+<v AKSHAYA GANESAN .>when we say closed book examination,
+you will have to just write with the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10192-2
+01:47:24.596 --> 01:47:29.306
+<v AKSHAYA GANESAN .>question paper and you will have to
+answer. For the open book examination,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10192-3
+01:47:29.306 --> 01:47:32.257
+<v AKSHAYA GANESAN .>you are allowed to take your slides and
+books.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10229-0
+01:47:33.617 --> 01:47:38.467
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>Okay, so that's what like I was asking.
+So the concepts of the contents which</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10196-0
+01:47:36.697 --> 01:47:36.977
+<v AKSHAYA GANESAN .>Shuchi.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10229-1
+01:47:38.467 --> 01:47:42.385
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>were explained in the task followed by
+the slides, everything,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10229-2
+01:47:42.385 --> 01:47:45.868
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>if we prepare them,
+will it be able to cope up with the</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10229-3
+01:47:45.868 --> 01:47:49.537
+<v PINDIPROLU KAMESWARA ANANDA KRISHNA .>closed book exam, right?
+That's what I want to ask, ma'am.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10226-0
+01:47:47.617 --> 01:47:48.177
+<v AKSHAYA GANESAN .>Yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10228-0
+01:47:49.777 --> 01:47:50.337
+<v AKSHAYA GANESAN .>Yes.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10249-0
+01:47:53.857 --> 01:47:57.831
+<v AKSHAYA GANESAN .>That's correct. Yes.
+For the comprehensive exam,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10249-1
+01:47:57.831 --> 01:48:02.050
+<v AKSHAYA GANESAN .>whatever books are mentioned in the
+course handout,</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10249-2
+01:48:02.050 --> 01:48:05.457
+<v AKSHAYA GANESAN .>plus the PPT slides alone will be allowed.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10250-0
+01:48:10.017 --> 01:48:10.257
+<v AKSHAYA GANESAN .>Yeah.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10254-0
+01:48:11.137 --> 01:48:12.817
+<v AKSHAYA GANESAN .>Okay, thank you all.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10263-0
+01:48:14.337 --> 01:48:17.377
+<v AKSHAYA GANESAN .>I'm looking forward for the session.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10280-0
+01:48:19.737 --> 01:48:25.537
+<v AKSHAYA GANESAN .>If there are any questions,
+you can reach out to me through my e-mail.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10271-0
+01:48:20.297 --> 01:48:21.057
+<v PRASHANT BHATTACHARYA .>Thank you, Naveen.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10286-0
+01:48:26.817 --> 01:48:28.897
+<v AKSHAYA GANESAN .>Or you can use the TEAMS as well.</v>
+
+87f41a82-9c7b-4166-99e4-05e683137988/10290-0
+01:48:30.177 --> 01:48:30.897
+<v AKSHAYA GANESAN .>Thank you all.</v>
