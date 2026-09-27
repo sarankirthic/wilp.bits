@@ -598,6 +598,123 @@ The lecturer said this was compressed and promised more, but it was never taught
 
 ---
 
+### Answers
+
+Your answers are mostly right. Below are exam-ready versions, with the few fixes marked ⚠.
+
+**1. NIST 5 essential characteristics**
+On-demand self-service, broad network access, resource pooling (multi-tenant), rapid elasticity, measured service (pay-per-use).
+
+**2. Service vs deployment model**
+The service model is *what* is delivered: IaaS, PaaS or SaaS. The deployment model is *who owns and uses it and where*: public, private, community or hybrid.
+
+**3. Cloudbursting**
+A hybrid pattern. The app runs on private infrastructure and overflows to public cloud at peak load, then scales back.
+
+**4. Hypervisor vs VMM**
+They are synonyms. Both mean the software layer that creates, runs and isolates VMs.
+
+**5. Type 1 vs Type 2**
+- Type 1 is bare-metal and runs directly on the hardware (ESXi/vSphere, Xen, Hyper-V, KVM). It is faster and used in data centres.
+- Type 2 is hosted and runs on top of a host OS (VirtualBox, VMware Workstation). It adds more overhead and is used on desktops.
+
+**6. ⚠ Why x86 virtualization is hard**
+- The guest OS expects to run in ring 0, but the hypervisor owns ring 0.
+- The key point: x86 has about 17 *sensitive but non-privileged* instructions (e.g., `POPF`, `SGDT`). These don't trap when run in a lower ring; they fail silently instead.
+- That violates the Popek–Goldberg requirement, so plain trap-and-emulate doesn't work.
+
+**7. Three techniques**
+- **Full virtualization with binary translation:** the hypervisor rewrites sensitive instructions at runtime. The guest is unmodified.
+- **Paravirtualization:** the guest kernel is modified to make hypercalls to the hypervisor (e.g., Xen).
+- **Hardware-assisted:** Intel VT-x and AMD-V add a root mode, so sensitive instructions trap properly. This is the standard today.
+
+**8. Which technique modifies the guest kernel**
+Paravirtualization.
+
+**9. vCPU ratio**
+6 VMs × 2 vCPU = 12 vCPU on 4 physical cores, so 12 ÷ 4 = **3:1**.
+
+**10. When to use 1:1 CPU allocation**
+For latency-sensitive or CPU-heavy workloads: databases, real-time and financial transactions, VoIP. It avoids CPU-ready wait time.
+
+**11. Memory overcommit techniques**
+- Transparent page sharing: identical pages are deduplicated, and copy-on-write applies when one is modified.
+- Ballooning: a driver inside the guest reclaims its idle memory.
+- Memory compression.
+- Hypervisor/host swapping: the last resort, and the slowest.
+
+**12. Namespaces vs cgroups**
+- Namespaces provide **isolation**, i.e. what a container can *see*: PID, NET, MNT, UTS, IPC and USER namespaces.
+- Cgroups provide **resource control**, i.e. what it can *use*: CPU, memory, I/O limits and accounting.
+
+**13. VM vs container**
+
+| | VM | Container |
+|---|---|---|
+| Virtualizes | Hardware | OS |
+| Kernel | Own guest OS | Shares host kernel |
+| Boot time | Minutes | Seconds or less |
+| Size | GBs | MBs |
+| Density | Low | High |
+| Isolation | Stronger | Weaker |
+
+**14. A container's kernel**
+It *is* the host kernel. The container must match the host's OS family and CPU architecture (ISA): a Linux container needs a Linux kernel, and an ARM image needs an ARM host.
+
+**15. What copy-on-write protects**
+The read-only base image layers. Changes go into a thin writable container layer, so the base is shared and never altered.
+
+**16. Dockerfile filename**
+`Dockerfile`, with a capital D and no extension.
+
+**17. Why not `:latest`**
+The tag isn't pinned, so a rebuild may pull a different version. This causes version drift, breaks dependencies and makes builds non-reproducible. Pin a version (e.g., `python:3.12-slim`).
+
+**18. Why not put a password in a Dockerfile**
+It is baked into an image layer and is visible via `docker history` or `docker inspect`, and to anyone who pulls the image. Use env vars at runtime, secrets or a vault instead.
+
+**19. `docker run` vs `docker create`**
+`run` = pull (if needed) + create + start. `create` only creates the container in a stopped state; you start it later with `docker start`.
+
+**20. `-it` vs `-d`**
+- `-it` means interactive with a TTY, attached to your terminal (e.g., a shell).
+- `-d` means detached: the container runs in the background (e.g., servers).
+
+**21. Local Zone vs AZ**
+- An AZ is one or more full data centres inside a region, with independent power and networking, offering the full set of services.
+- A Local Zone is a limited extension of a region placed near a metro area for single-digit-millisecond latency, with a subset of services.
+
+**22. Wavelength vs Outposts**
+- Wavelength runs AWS compute inside telecom 5G networks, for ultra-low latency to mobile devices.
+- Outposts is AWS hardware installed in *your* on-prem data centre, used for data residency or local processing.
+
+**23. Authentication vs authorization**
+AuthN answers *who you are* (password, MFA). AuthZ answers *what you're allowed to do* (IAM policies). AuthN comes first.
+
+**24. Shared responsibility model**
+- AWS is responsible for security **of** the cloud: physical facilities, hardware, network and the virtualization layer.
+- You are responsible for security **in** the cloud: data, IAM, OS patching (on EC2), applications, security groups and encryption.
+
+**25. 4 AMI sources**
+AWS-provided AMIs, AMIs created from your own instance, AWS Marketplace, and community AMIs or VM images you import.
+
+**26. .pem vs .ppk**
+`.pem` is used by OpenSSH on Linux and Mac, and to decrypt the Windows admin password. `.ppk` is PuTTY's format on Windows; you convert to it with PuTTYgen.
+
+**27. Why `0.0.0.0/0` is bad**
+It allows traffic from every IPv4 address. On ports like SSH (22) or RDP (3389) this invites brute force and scanning. Restrict it to your own IP or CIDR.
+
+**28. ⚠ What still costs money when an instance is stopped**
+EBS volumes, EBS snapshots, and Elastic IPs (all public IPv4 addresses are billed now). You pay no compute charge.
+
+**29. Tenancy by cost**
+Shared (default) < Dedicated Instance < Dedicated Host. The Dedicated Host is the most expensive because you get the whole physical server and visibility into its sockets and cores, which matters for BYOL licensing.
+
+**30. Block vs file vs object**
+- **Block** storage holds raw fixed-size blocks with low latency (EBS). Use it for databases and boot volumes.
+- **File** storage gives a hierarchical file system shared over NFS or SMB (EFS). Use it for shared files.
+- **Object** storage keeps whole objects with metadata in a flat namespace, addressed by an ID or key (S3). Use it for write-once-read-many data at massive scale: backups, media, static content.
+
 ## 6. One-page cheat sheet
 
 - **3-4-5:** 3 service models · 4 deployment models · 5 characteristics.
